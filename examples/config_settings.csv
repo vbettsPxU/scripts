@@ -1,0 +1,87 @@
+filename,setting_id,level,section_name,block_name,type,property,content
+./settings_schema.json,name,settings_schema,layout,,,name,Layout
+./settings_schema.json,site_width,settings_schema,layout,,select,label,Site width
+./settings_schema.json,site_width,settings_schema,layout,,select,option_1,960px
+./settings_schema.json,site_width,settings_schema,layout,,select,option_2,1080px
+./settings_schema.json,site_width,settings_schema,layout,,select,option_3,1200px
+./settings_schema.json,site_width,settings_schema,layout,,select,option_4,1320px
+./settings_schema.json,name,settings_schema,background,,,name,Background
+./settings_schema.json,background_image,settings_schema,background,,image_picker,label,Background image
+./settings_schema.json,background_image,settings_schema,background,,image_picker,info,1024 x 768px .jpg recommended
+./settings_schema.json,repeat_background,settings_schema,background,,select,label,Repeat your background
+./settings_schema.json,repeat_background,settings_schema,background,,select,option_1,Repeat only horizontally
+./settings_schema.json,repeat_background,settings_schema,background,,select,option_2,Repeat only vertically
+./settings_schema.json,repeat_background,settings_schema,background,,select,option_3,Repeat both
+./settings_schema.json,repeat_background,settings_schema,background,,select,option_4,Do not repeat
+./settings_schema.json,background_position,settings_schema,background,,select,label,Background position
+./settings_schema.json,background_position,settings_schema,background,,select,option_1,Left top
+./settings_schema.json,background_position,settings_schema,background,,select,option_2,Left center
+./settings_schema.json,background_position,settings_schema,background,,select,option_3,Left bottom
+./settings_schema.json,background_position,settings_schema,background,,select,option_4,Center top
+./settings_schema.json,background_position,settings_schema,background,,select,option_5,Center center
+./settings_schema.json,background_position,settings_schema,background,,select,option_6,Center bottom
+./settings_schema.json,background_position,settings_schema,background,,select,option_7,Right top
+./settings_schema.json,background_position,settings_schema,background,,select,option_8,Right center
+./settings_schema.json,background_position,settings_schema,background,,select,option_9,Right bottom
+./settings_schema.json,name,settings_schema,colors,,,name,Colors
+./settings_schema.json,header,settings_schema,colors,,header,content,General
+./settings_schema.json,background-color,settings_schema,colors,,color,label,Background
+./settings_schema.json,primary-border-color,settings_schema,colors,,color,label,Borders and lines
+./settings_schema.json,header,settings_schema,colors,,header,content,Text
+./settings_schema.json,navigation-color,settings_schema,colors,,color,label,Navigation text
+./settings_schema.json,title-label-color,settings_schema,colors,,color,label,Heading text
+./settings_schema.json,text-color,settings_schema,colors,,color,label,Regular text
+./settings_schema.json,alternate-text-color,settings_schema,colors,,color,label,Secondary text
+./settings_schema.json,alternate-text-color,settings_schema,colors,,color,info,Used for small text such as meta information.
+./settings_schema.json,link-color,settings_schema,colors,,color,label,Links
+./settings_schema.json,sale_color,settings_schema,colors,,color,label,Sale price
+./settings_schema.json,header,settings_schema,colors,,header,content,Buttons
+./settings_schema.json,submit-button-color,settings_schema,colors,,color,label,Button background
+./settings_schema.json,submit-button-text-color,settings_schema,colors,,color,label,Button text
+./settings_schema.json,header,settings_schema,colors,,header,content,Form fields
+./settings_schema.json,form_text_color,settings_schema,colors,,color,label,Text
+./settings_schema.json,form_border_color,settings_schema,colors,,color,label,Borders
+./settings_schema.json,form_background_color,settings_schema,colors,,color,label,Background
+./settings_schema.json,name,settings_schema,typography,,,name,Typography
+./settings_schema.json,header,settings_schema,typography,,header,content,Heading text
+./settings_schema.json,font_heading,settings_schema,typography,,font_picker,label,Heading font
+./settings_schema.json,font_body,settings_schema,typography,,font_picker,label,Body font
+./settings_schema.json,font_accent,settings_schema,typography,,font_picker,label,Accent font
+./settings_schema.json,font_accent,settings_schema,typography,,font_picker,info,"Menus, buttons, small headings"
+./settings_schema.json,name,settings_schema,favicon,,,name,Favicon
+./settings_schema.json,favicon,settings_schema,favicon,,image_picker,label,Icon
+./settings_schema.json,favicon,settings_schema,favicon,,image_picker,info,16 x 16px .png required
+./settings_schema.json,name,settings_schema,products,,,name,Products
+./settings_schema.json,enable_cart_redirection,settings_schema,products,,checkbox,label,Enable cart redirection
+./settings_schema.json,enable_cart_redirection,settings_schema,products,,checkbox,info,Automatically sends users to the Cart page after adding a product.
+./settings_schema.json,show_payment_button,settings_schema,products,,checkbox,label,Show dynamic checkout button
+./settings_schema.json,show_payment_button,settings_schema,products,,checkbox,info,"Each customer will see their preferred payment method from those available on your store, such as PayPal or Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+./settings_schema.json,name,settings_schema,product_grid,,,name,Product grid
+./settings_schema.json,display_banner,settings_schema,product_grid,,checkbox,label,Enable 'Sale/Sold out' banner
+./settings_schema.json,prod_card_show_vendor,settings_schema,product_grid,,checkbox,label,Show vendor
+./settings_schema.json,secondary_img_hover,settings_schema,product_grid,,checkbox,label,Show secondary image on hover
+./settings_schema.json,prod_card_discount_label,settings_schema,product_grid,,checkbox,label,Show discount label
+./settings_schema.json,prod_card_aspect_ratio,settings_schema,product_grid,,select,label,Product aspect ratio
+./settings_schema.json,prod_card_aspect_ratio,settings_schema,product_grid,,select,option_1,Natural
+./settings_schema.json,prod_card_aspect_ratio,settings_schema,product_grid,,select,option_2,Short (4:3)
+./settings_schema.json,prod_card_aspect_ratio,settings_schema,product_grid,,select,option_3,Square (1:1)
+./settings_schema.json,prod_card_aspect_ratio,settings_schema,product_grid,,select,option_4,Tall (2:3)
+./settings_schema.json,header,settings_schema,product_grid,,header,content,Quick shop
+./settings_schema.json,quick_shop,settings_schema,product_grid,,checkbox,label,Enable quick shop
+./settings_schema.json,name,settings_schema,social_media,,,name,Social media
+./settings_schema.json,show-twitter-link,settings_schema,social_media,,text,label,Twitter
+./settings_schema.json,show-twitter-link,settings_schema,social_media,,text,info,https://twitter.com/shopify
+./settings_schema.json,show-facebook-link,settings_schema,social_media,,text,label,Facebook
+./settings_schema.json,show-facebook-link,settings_schema,social_media,,text,info,https://www.facebook.com/shopify
+./settings_schema.json,show-tumblr-link,settings_schema,social_media,,text,label,Tumblr
+./settings_schema.json,show-tumblr-link,settings_schema,social_media,,text,info,http://shopify.tumblr.com
+./settings_schema.json,show-pinterest-link,settings_schema,social_media,,text,label,Pinterest
+./settings_schema.json,show-pinterest-link,settings_schema,social_media,,text,info,https://www.pinterest.com/shopify
+./settings_schema.json,show-instagram-link,settings_schema,social_media,,text,label,Instagram
+./settings_schema.json,show-instagram-link,settings_schema,social_media,,text,info,https://instagram.com/shopify
+./settings_schema.json,show-flickr-link,settings_schema,social_media,,text,label,Flickr
+./settings_schema.json,show-flickr-link,settings_schema,social_media,,text,info,https://flickr.com/shopify
+./settings_schema.json,show-vimeo-link,settings_schema,social_media,,text,label,Vimeo
+./settings_schema.json,show-vimeo-link,settings_schema,social_media,,text,info,https://vimeo.com/shopify
+./settings_schema.json,show-youtube-link,settings_schema,social_media,,text,label,Youtube
+./settings_schema.json,show-youtube-link,settings_schema,social_media,,text,info,https://www.youtube.com/user/shopify

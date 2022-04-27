@@ -59,7 +59,7 @@ for file in files:
                 dataList.append(line)
 
 
-with open('settings.csv', 'w', encoding='UTF8', newline='') as f:
+with open('config_settings.csv', 'w', encoding='UTF8', newline='') as f:
     writer = csv.writer(f)
     writer.writerow(header)
     writer.writerows(dataList)

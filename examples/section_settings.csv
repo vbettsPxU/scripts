@@ -1,0 +1,314 @@
+filename,setting_id,level,section_name,block_name,type,property,content
+./static-cart/static-cart.json,name,sections,cart,,name,section name,Cart
+./static-cart/static-cart.json,enable_checkout_lock_icon,sections,cart,,checkbox,label,Show lock icon on checkout button
+./static-cart/static-cart.json,show_cart_notes,sections,cart,,checkbox,label,Enable order notes
+./static-cart/static-cart.json,use_continue_shopping,sections,cart,,checkbox,label,Show 'continue shopping' button
+./dynamic-rich-text/dynamic-rich-text.json,name,sections,rich_text,,name,section name,Rich text
+./dynamic-rich-text/dynamic-rich-text.json,title,sections,rich_text,,text,label,Heading
+./dynamic-rich-text/dynamic-rich-text.json,introduction_tagline,sections,rich_text,,richtext,label,Text
+./dynamic-rich-text/dynamic-rich-text.json,Rich text,presets,rich_text,,category,category,Text
+./dynamic-rich-text/dynamic-rich-text.json,Rich text,presets,rich_text,,name,name,Rich text
+./dynamic-featured-collection/dynamic-featured-collection.json,name,sections,featured_collection,,name,section name,Featured collection
+./dynamic-featured-collection/dynamic-featured-collection.json,title,sections,featured_collection,,text,label,Heading
+./dynamic-featured-collection/dynamic-featured-collection.json,collection,sections,featured_collection,,collection,label,Collection
+./dynamic-featured-collection/dynamic-featured-collection.json,products-per-row,sections,featured_collection,,range,label,Products per row
+./dynamic-featured-collection/dynamic-featured-collection.json,product-rows,sections,featured_collection,,range,label,Rows
+./dynamic-featured-collection/dynamic-featured-collection.json,Featured collection,presets,featured_collection,,category,category,Collection
+./dynamic-featured-collection/dynamic-featured-collection.json,Featured collection,presets,featured_collection,,name,name,Featured collection
+./static-giftcard/static-giftcard.json,name,sections,gift_card,,name,section name,Gift card
+./dynamic-image-with-text/dynamic-image-with-text.json,name,sections,image_with_text,,name,section name,Image with Text
+./dynamic-image-with-text/dynamic-image-with-text.json,section_heading,sections,image_with_text,,text,label,Section Heading
+./dynamic-image-with-text/dynamic-image-with-text.json,header,sections,image_with_text,,header,content,Image
+./dynamic-image-with-text/dynamic-image-with-text.json,image,sections,image_with_text,,image_picker,label,Image
+./dynamic-image-with-text/dynamic-image-with-text.json,crop,sections,image_with_text,,select,label,Image focal point
+./dynamic-image-with-text/dynamic-image-with-text.json,crop,sections,image_with_text,,select,info,Used to keep the subject of your photo in view.
+./dynamic-image-with-text/dynamic-image-with-text.json,crop,sections,image_with_text,,select,option_1,Top
+./dynamic-image-with-text/dynamic-image-with-text.json,crop,sections,image_with_text,,select,option_2,Center
+./dynamic-image-with-text/dynamic-image-with-text.json,crop,sections,image_with_text,,select,option_3,Bottom
+./dynamic-image-with-text/dynamic-image-with-text.json,crop,sections,image_with_text,,select,option_4,Left
+./dynamic-image-with-text/dynamic-image-with-text.json,crop,sections,image_with_text,,select,option_5,Right
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_height,sections,image_with_text,,select,label,Desktop height
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_height,sections,image_with_text,,select,option_1,Natural
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_height,sections,image_with_text,,select,option_2,400px
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_height,sections,image_with_text,,select,option_3,500px
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_height,sections,image_with_text,,select,option_4,600px
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_height,sections,image_with_text,,select,option_5,700px
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_height,sections,image_with_text,,select,option_6,800px
+./dynamic-image-with-text/dynamic-image-with-text.json,mobile_height,sections,image_with_text,,select,label,Mobile height
+./dynamic-image-with-text/dynamic-image-with-text.json,mobile_height,sections,image_with_text,,select,option_1,Natural
+./dynamic-image-with-text/dynamic-image-with-text.json,mobile_height,sections,image_with_text,,select,option_2,300px
+./dynamic-image-with-text/dynamic-image-with-text.json,mobile_height,sections,image_with_text,,select,option_3,400px
+./dynamic-image-with-text/dynamic-image-with-text.json,mobile_height,sections,image_with_text,,select,option_4,500px
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_image_alignment,sections,image_with_text,,select,label,Desktop image alignment
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_image_alignment,sections,image_with_text,,select,option_1,Left
+./dynamic-image-with-text/dynamic-image-with-text.json,desktop_image_alignment,sections,image_with_text,,select,option_2,Right
+./dynamic-image-with-text/dynamic-image-with-text.json,mobile_image_alignment,sections,image_with_text,,select,label,Mobile image alignment
+./dynamic-image-with-text/dynamic-image-with-text.json,mobile_image_alignment,sections,image_with_text,,select,option_1,Top
+./dynamic-image-with-text/dynamic-image-with-text.json,mobile_image_alignment,sections,image_with_text,,select,option_2,Bottom
+./dynamic-image-with-text/dynamic-image-with-text.json,header,sections,image_with_text,,header,content,Text
+./dynamic-image-with-text/dynamic-image-with-text.json,heading,sections,image_with_text,,text,label,Heading
+./dynamic-image-with-text/dynamic-image-with-text.json,subheading,sections,image_with_text,,richtext,label,Subheading
+./dynamic-image-with-text/dynamic-image-with-text.json,text_alignment,sections,image_with_text,,select,label,Text alignment
+./dynamic-image-with-text/dynamic-image-with-text.json,text_alignment,sections,image_with_text,,select,option_1,Left
+./dynamic-image-with-text/dynamic-image-with-text.json,text_alignment,sections,image_with_text,,select,option_2,Center
+./dynamic-image-with-text/dynamic-image-with-text.json,text_alignment,sections,image_with_text,,select,option_3,Right
+./dynamic-image-with-text/dynamic-image-with-text.json,button_label,sections,image_with_text,,text,label,Button label
+./dynamic-image-with-text/dynamic-image-with-text.json,button_link,sections,image_with_text,,url,label,Button link
+./dynamic-image-with-text/dynamic-image-with-text.json,Image with text,presets,image_with_text,,category,category,Image
+./dynamic-image-with-text/dynamic-image-with-text.json,Image with text,presets,image_with_text,,name,name,Image with text
+./dynamic-slideshow/dynamic-slideshow.json,name,sections,slideshow,,name,section name,Slideshow
+./dynamic-slideshow/dynamic-slideshow.json,should_autoplay,sections,slideshow,,checkbox,label,Auto-rotate slides
+./dynamic-slideshow/dynamic-slideshow.json,slide_frequency,sections,slideshow,,range,label,Rotation interval
+./dynamic-slideshow/dynamic-slideshow.json,aspect_ratio,sections,slideshow,,select,label,Slideshow height
+./dynamic-slideshow/dynamic-slideshow.json,aspect_ratio,sections,slideshow,,select,option_1,Small
+./dynamic-slideshow/dynamic-slideshow.json,aspect_ratio,sections,slideshow,,select,option_2,Medium
+./dynamic-slideshow/dynamic-slideshow.json,aspect_ratio,sections,slideshow,,select,option_3,Large
+./dynamic-slideshow/dynamic-slideshow.json,aspect_ratio,sections,slideshow,,select,option_4,Original aspect ratio
+./dynamic-slideshow/dynamic-slideshow.json,name,block,slideshow,slide,name,block name,Slide
+./dynamic-slideshow/dynamic-slideshow.json,image,blocks,slideshow,slide,image_picker,label,Image
+./dynamic-slideshow/dynamic-slideshow.json,image,blocks,slideshow,slide,image_picker,info,940 x 444px .jpg recommended
+./dynamic-slideshow/dynamic-slideshow.json,header,blocks,slideshow,slide,header,content,Overlay
+./dynamic-slideshow/dynamic-slideshow.json,title,blocks,slideshow,slide,text,label,Heading
+./dynamic-slideshow/dynamic-slideshow.json,subheading,blocks,slideshow,slide,text,label,Subheading
+./dynamic-slideshow/dynamic-slideshow.json,button_label,blocks,slideshow,slide,text,label,Button label
+./dynamic-slideshow/dynamic-slideshow.json,link,blocks,slideshow,slide,url,label,Link
+./dynamic-slideshow/dynamic-slideshow.json,color,blocks,slideshow,slide,color,label,Color
+./dynamic-slideshow/dynamic-slideshow.json,background_color,blocks,slideshow,slide,color,label,Background color
+./dynamic-slideshow/dynamic-slideshow.json,background_color_opacity,blocks,slideshow,slide,range,label,Background color opacity
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,label,Alignment
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,option_1,Left Top
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,option_2,Left Center
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,option_3,Left Bottom
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,option_4,Center Top
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,option_5,Center
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,option_6,Center Bottom
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,option_7,Right Top
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,option_8,Right Center
+./dynamic-slideshow/dynamic-slideshow.json,alignment,blocks,slideshow,slide,select,option_9,Right Bottom
+./dynamic-slideshow/dynamic-slideshow.json,Slideshow,presets,slideshow,,category,category,Image
+./dynamic-slideshow/dynamic-slideshow.json,Slideshow,presets,slideshow,,name,name,Slideshow
+./static-contact-page/static-contact-page.json,name,sections,contact_page,,name,section name,Contact Page
+./static-contact-page/static-contact-page.json,page_width,sections,contact_page,,select,label,Page width
+./static-contact-page/static-contact-page.json,page_width,sections,contact_page,,select,option_1,Regular
+./static-contact-page/static-contact-page.json,page_width,sections,contact_page,,select,option_2,Wide
+./static-contact-page/static-contact-page.json,page_width,sections,contact_page,,select,option_3,Full width
+./static-product-recommendations/static-product-recommendations.json,name,sections,recommended_products,,name,section name,Recommended products
+./static-product-recommendations/static-product-recommendations.json,show_product_recommendations,sections,recommended_products,,checkbox,label,Show dynamic recommendations
+./static-product-recommendations/static-product-recommendations.json,show_product_recommendations,sections,recommended_products,,checkbox,info,Dynamic recommendations change and improve with time. [Learn more](https://help.shopify.com/en/themes/development/recommended-products)
+./static-product-recommendations/static-product-recommendations.json,product_recommendations_heading,sections,recommended_products,,text,label,Heading
+./static-quickshop/static-quickshop.json,name,sections,quick_shop,,name,section name,Quick shop
+./static-quickshop/static-quickshop.json,header,sections,quick_shop,,header,content,Media
+./static-quickshop/static-quickshop.json,paragraph,sections,quick_shop,,paragraph,content,Learn more about [media types](https://help.shopify.com/en/manual/products/product-media/product-media-types)
+./static-quickshop/static-quickshop.json,gallery_image_zoom,sections,quick_shop,,checkbox,label,Enable image zoom
+./static-quickshop/static-quickshop.json,gallery_video_autoplay,sections,quick_shop,,checkbox,label,Enable video autoplay
+./static-quickshop/static-quickshop.json,gallery_video_looping,sections,quick_shop,,checkbox,label,Enable video looping
+./static-quickshop/static-quickshop.json,name,block,quick_shop,title,name,block name,Title
+./static-quickshop/static-quickshop.json,name,block,quick_shop,vendor,name,block name,Vendor
+./static-quickshop/static-quickshop.json,name,block,quick_shop,variant_selection,name,block name,Variant selection
+./static-quickshop/static-quickshop.json,show_labels,blocks,quick_shop,variant_selection,checkbox,label,Show labels
+./static-quickshop/static-quickshop.json,name,block,quick_shop,price,name,block name,Price
+./static-quickshop/static-quickshop.json,name,block,quick_shop,quantity,name,block name,Quantity
+./static-quickshop/static-quickshop.json,name,block,quick_shop,price_and_quantity,name,block name,Price and quantity
+./static-quickshop/static-quickshop.json,paragraph,blocks,quick_shop,price_and_quantity,paragraph,content,Adding this block will hide any other “price” or “quantity” blocks.
+./static-quickshop/static-quickshop.json,name,block,quick_shop,text,name,block name,Text
+./static-quickshop/static-quickshop.json,text,blocks,quick_shop,text,richtext,label,Text
+./static-quickshop/static-quickshop.json,name,block,quick_shop,description,name,block name,Description
+./static-quickshop/static-quickshop.json,name,block,quick_shop,form,name,block name,Form
+./static-quickshop/static-quickshop.json,paragraph,blocks,quick_shop,form,paragraph,content,Customize form features for the product in the products portion of the theme settings.
+./static-quickshop/static-quickshop.json,name,block,quick_shop,share,name,block name,Share
+./static-quickshop/static-quickshop.json,name,block,quick_shop,gallery,name,block name,Gallery
+./static-quickshop/static-quickshop.json,name,block,quick_shop,product_rating,name,block name,Product rating
+./static-quickshop/static-quickshop.json,paragraph,blocks,quick_shop,product_rating,paragraph,content,"To display a rating, add a product rating app. [Learn more](https://apps.shopify.com/product-reviews)"
+./static-footer/static-footer.json,name,sections,footer,,name,section name,Footer
+./static-footer/static-footer.json,subfooter_menu,sections,footer,,link_list,label,Menu
+./static-footer/static-footer.json,subfooter_menu,sections,footer,,link_list,info,This menu does not support nesting
+./static-footer/static-footer.json,payment_icons,sections,footer,,checkbox,label,Show payment icons
+./static-footer/static-footer.json,header,sections,footer,,header,content,Language Selector
+./static-footer/static-footer.json,show_locale_selector,sections,footer,,checkbox,label,Show language selector
+./static-footer/static-footer.json,header,sections,footer,,header,content,Country Selector
+./static-footer/static-footer.json,show_currency_selector,sections,footer,,checkbox,label,Show country selector
+./static-footer/static-footer.json,name,block,footer,menu,name,block name,Menu
+./static-footer/static-footer.json,title,blocks,footer,menu,text,label,Heading
+./static-footer/static-footer.json,footer_menu,blocks,footer,menu,link_list,label,Menu
+./static-footer/static-footer.json,footer_menu,blocks,footer,menu,link_list,info,This menu does not support nesting
+./static-footer/static-footer.json,name,block,footer,text,name,block name,Text
+./static-footer/static-footer.json,title,blocks,footer,text,text,label,Heading
+./static-footer/static-footer.json,caption,blocks,footer,text,richtext,label,Text
+./static-footer/static-footer.json,name,block,footer,social_media,name,block name,Social media
+./static-footer/static-footer.json,title,blocks,footer,social_media,text,label,Heading
+./static-footer/static-footer.json,title,blocks,footer,social_media,text,info,Configure your social media under “General settings” in “Social media”.
+./static-footer/static-footer.json,name,block,footer,newsletter,name,block name,Newsletter
+./static-footer/static-footer.json,title,blocks,footer,newsletter,text,label,Heading
+./static-footer/static-footer.json,caption,blocks,footer,newsletter,richtext,label,Text
+./static-product/static-product.json,name,sections,product_pages,,name,section name,Product pages
+./static-product/static-product.json,header,sections,product_pages,,header,content,Media
+./static-product/static-product.json,paragraph,sections,product_pages,,paragraph,content,Learn more about [media types](https://help.shopify.com/en/manual/products/product-media/product-media-types)
+./static-product/static-product.json,gallery_image_zoom,sections,product_pages,,checkbox,label,Enable image zoom
+./static-product/static-product.json,gallery_video_autoplay,sections,product_pages,,checkbox,label,Enable video autoplay
+./static-product/static-product.json,gallery_video_looping,sections,product_pages,,checkbox,label,Enable video looping
+./static-product/static-product.json,name,block,product_pages,title,name,block name,Title
+./static-product/static-product.json,name,block,product_pages,vendor,name,block name,Vendor
+./static-product/static-product.json,name,block,product_pages,variant_selection,name,block name,Variant selection
+./static-product/static-product.json,show_labels,blocks,product_pages,variant_selection,checkbox,label,Show labels
+./static-product/static-product.json,name,block,product_pages,price,name,block name,Price
+./static-product/static-product.json,name,block,product_pages,quantity,name,block name,Quantity
+./static-product/static-product.json,name,block,product_pages,price_and_quantity,name,block name,Price and quantity
+./static-product/static-product.json,paragraph,blocks,product_pages,price_and_quantity,paragraph,content,Adding this block will hide any other “price” or “quantity” blocks.
+./static-product/static-product.json,name,block,product_pages,text,name,block name,Text
+./static-product/static-product.json,text,blocks,product_pages,text,richtext,label,Text
+./static-product/static-product.json,name,block,product_pages,description,name,block name,Description
+./static-product/static-product.json,name,block,product_pages,form,name,block name,Form
+./static-product/static-product.json,paragraph,blocks,product_pages,form,paragraph,content,Customize form features for the product in the products portion of the theme settings.
+./static-product/static-product.json,name,block,product_pages,share,name,block name,Share
+./static-product/static-product.json,name,block,product_pages,gallery,name,block name,Gallery
+./static-product/static-product.json,position,blocks,product_pages,gallery,select,label,Position
+./static-product/static-product.json,position,blocks,product_pages,gallery,select,option_1,Center
+./static-product/static-product.json,position,blocks,product_pages,gallery,select,option_2,Left
+./static-product/static-product.json,name,block,product_pages,product_rating,name,block name,Product rating
+./static-product/static-product.json,paragraph,blocks,product_pages,product_rating,paragraph,content,"To display a rating, add a product rating app. [Learn more](https://apps.shopify.com/product-reviews)"
+./dynamic-collection-list/dynamic-collection-list.json,name,sections,collection_list,,name,section name,Collection list
+./dynamic-collection-list/dynamic-collection-list.json,title,sections,collection_list,,text,label,Heading
+./dynamic-collection-list/dynamic-collection-list.json,item_style,sections,collection_list,,select,label,Image aspect ratio
+./dynamic-collection-list/dynamic-collection-list.json,item_style,sections,collection_list,,select,option_1,Natural
+./dynamic-collection-list/dynamic-collection-list.json,item_style,sections,collection_list,,select,option_2,Short (4:3)
+./dynamic-collection-list/dynamic-collection-list.json,item_style,sections,collection_list,,select,option_3,Square (1:1)
+./dynamic-collection-list/dynamic-collection-list.json,item_style,sections,collection_list,,select,option_4,Tall (2:3)
+./dynamic-collection-list/dynamic-collection-list.json,show_collection_titles,sections,collection_list,,checkbox,label,Show collection titles
+./dynamic-collection-list/dynamic-collection-list.json,show_product_count,sections,collection_list,,checkbox,label,Show product count
+./dynamic-collection-list/dynamic-collection-list.json,show_description,sections,collection_list,,checkbox,label,Show collection description
+./dynamic-collection-list/dynamic-collection-list.json,name,block,collection_list,collection,name,block name,Collection
+./dynamic-collection-list/dynamic-collection-list.json,collection,blocks,collection_list,collection,collection,label,Collection
+./dynamic-collection-list/dynamic-collection-list.json,Collection list,presets,collection_list,,category,category,Collection
+./dynamic-collection-list/dynamic-collection-list.json,Collection list,presets,collection_list,,name,name,Collection list
+./static-collection-list/static-collection-list.json,name,sections,collection_list,,name,section name,Collection list
+./static-collection-list/static-collection-list.json,paragraph,sections,collection_list,,paragraph,content,"All of your collections are listed by default. To customize your list, choose 'Selected' and add collections."
+./static-collection-list/static-collection-list.json,display_type,sections,collection_list,,radio,label,Select collections to show
+./static-collection-list/static-collection-list.json,sort,sections,collection_list,,select,label,Sort collections by:
+./static-collection-list/static-collection-list.json,sort,sections,collection_list,,select,info,Sorting only applies when 'All' is selected
+./static-collection-list/static-collection-list.json,sort,sections,collection_list,,select,option_1,"Product count, high to low"
+./static-collection-list/static-collection-list.json,sort,sections,collection_list,,select,option_2,"Product count, low to high"
+./static-collection-list/static-collection-list.json,sort,sections,collection_list,,select,option_3,"Alphabetically, A-Z"
+./static-collection-list/static-collection-list.json,sort,sections,collection_list,,select,option_4,"Alphabetically, Z-A"
+./static-collection-list/static-collection-list.json,sort,sections,collection_list,,select,option_5,"Date, old to new"
+./static-collection-list/static-collection-list.json,sort,sections,collection_list,,select,option_6,"Date, new to old"
+./static-collection-list/static-collection-list.json,columns,sections,collection_list,,range,label,Collections per row
+./static-collection-list/static-collection-list.json,item_style,sections,collection_list,,select,label,Image aspect ratio
+./static-collection-list/static-collection-list.json,item_style,sections,collection_list,,select,option_1,Natural
+./static-collection-list/static-collection-list.json,item_style,sections,collection_list,,select,option_2,Short (4:3)
+./static-collection-list/static-collection-list.json,item_style,sections,collection_list,,select,option_3,Square (1:1)
+./static-collection-list/static-collection-list.json,item_style,sections,collection_list,,select,option_4,Tall (2:3)
+./static-collection-list/static-collection-list.json,show_title,sections,collection_list,,checkbox,label,Show collection title
+./static-collection-list/static-collection-list.json,show_product_count,sections,collection_list,,checkbox,label,Show product count
+./static-collection-list/static-collection-list.json,show_description,sections,collection_list,,checkbox,label,Show collection description
+./static-collection-list/static-collection-list.json,name,block,collection_list,collection,name,block name,Collection
+./static-collection-list/static-collection-list.json,collection,blocks,collection_list,collection,collection,label,Collection
+./search/search.json,name,sections,search_page,,name,section name,Search page
+./search/search.json,filter_option,sections,search_page,,checkbox,label,Enable filtering
+./dynamic-featured-product/dynamic-featured-product.json,name,sections,featured_product,,name,section name,Featured product
+./dynamic-featured-product/dynamic-featured-product.json,product_handle,sections,featured_product,,product,label,Product
+./dynamic-featured-product/dynamic-featured-product.json,header,sections,featured_product,,header,content,Media
+./dynamic-featured-product/dynamic-featured-product.json,paragraph,sections,featured_product,,paragraph,content,Learn more about [media types](https://help.shopify.com/en/manual/products/product-media/product-media-types)
+./dynamic-featured-product/dynamic-featured-product.json,gallery_image_zoom,sections,featured_product,,checkbox,label,Enable image zoom
+./dynamic-featured-product/dynamic-featured-product.json,gallery_video_autoplay,sections,featured_product,,checkbox,label,Enable video autoplay
+./dynamic-featured-product/dynamic-featured-product.json,gallery_video_looping,sections,featured_product,,checkbox,label,Enable video looping
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,title,name,block name,Title
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,vendor,name,block name,Vendor
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,variant_selection,name,block name,Variant selection
+./dynamic-featured-product/dynamic-featured-product.json,show_labels,blocks,featured_product,variant_selection,checkbox,label,Show labels
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,price,name,block name,Price
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,quantity,name,block name,Quantity
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,price_and_quantity,name,block name,Price and quantity
+./dynamic-featured-product/dynamic-featured-product.json,paragraph,blocks,featured_product,price_and_quantity,paragraph,content,Adding this block will hide any other “price” or “quantity” blocks.
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,text,name,block name,Text
+./dynamic-featured-product/dynamic-featured-product.json,text,blocks,featured_product,text,richtext,label,Text
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,description,name,block name,Description
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,form,name,block name,Form
+./dynamic-featured-product/dynamic-featured-product.json,paragraph,blocks,featured_product,form,paragraph,content,Customize form features for the product in the products portion of the theme settings.
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,share,name,block name,Share
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,gallery,name,block name,Gallery
+./dynamic-featured-product/dynamic-featured-product.json,position,blocks,featured_product,gallery,select,label,Position
+./dynamic-featured-product/dynamic-featured-product.json,position,blocks,featured_product,gallery,select,option_1,Center
+./dynamic-featured-product/dynamic-featured-product.json,position,blocks,featured_product,gallery,select,option_2,Left
+./dynamic-featured-product/dynamic-featured-product.json,name,block,featured_product,product_rating,name,block name,Product rating
+./dynamic-featured-product/dynamic-featured-product.json,paragraph,blocks,featured_product,product_rating,paragraph,content,"To display a rating, add a product rating app. [Learn more](https://apps.shopify.com/product-reviews)"
+./dynamic-featured-product/dynamic-featured-product.json,Featured product,presets,featured_product,,category,category,Product
+./dynamic-featured-product/dynamic-featured-product.json,Featured product,presets,featured_product,,name,name,Featured product
+./static-header/static-header.json,name,sections,header,,name,section name,Header
+./static-header/static-header.json,sticky_header,sections,header,,checkbox,label,Enable sticky header
+./static-header/static-header.json,header,sections,header,,header,content,Logo
+./static-header/static-header.json,logo,sections,header,,image_picker,label,Logo image
+./static-header/static-header.json,logo_width,sections,header,,range,label,Logo width
+./static-header/static-header.json,logo_width_mobile,sections,header,,range,label,Mobile logo width
+./static-header/static-header.json,header,sections,header,,header,content,Navigation ([?](https://www.pixelunion.net/support/editions-theme-manual/))
+./static-header/static-header.json,main_menu,sections,header,,link_list,label,Menu
+./static-header/static-header.json,name,block,header,mega_navigation,name,block name,Mega navigation
+./static-header/static-header.json,meganav_trigger,blocks,header,mega_navigation,text,label,Mega navigation trigger
+./static-header/static-header.json,meganav_trigger,blocks,header,mega_navigation,text,info,Add the menu item that you want to turn into a mega navigation.
+./dynamic-custom-liquid/dynamic-custom-liquid.json,name,sections,custom_liquid,,name,section name,Custom liquid
+./dynamic-custom-liquid/dynamic-custom-liquid.json,custom_liquid,sections,custom_liquid,,liquid,label,Custom liquid
+./dynamic-custom-liquid/dynamic-custom-liquid.json,Custom liquid,presets,custom_liquid,,category,category,Content
+./dynamic-custom-liquid/dynamic-custom-liquid.json,Custom liquid,presets,custom_liquid,,name,name,Custom liquid
+./dynamic-blog/dynamic-blog.json,name,sections,blog_posts,,name,section name,Blog posts
+./dynamic-blog/dynamic-blog.json,title,sections,blog_posts,,text,label,Heading
+./dynamic-blog/dynamic-blog.json,blog,sections,blog_posts,,blog,label,Blog
+./dynamic-blog/dynamic-blog.json,blog_layout,sections,blog_posts,,range,label,Posts
+./dynamic-blog/dynamic-blog.json,show_author,sections,blog_posts,,checkbox,label,Show author
+./dynamic-blog/dynamic-blog.json,show_date,sections,blog_posts,,checkbox,label,Show date
+./dynamic-blog/dynamic-blog.json,Blog posts,presets,blog_posts,,category,category,Blog
+./dynamic-blog/dynamic-blog.json,Blog posts,presets,blog_posts,,name,name,Blog posts
+./static-collection/static-collection.json,name,sections,collection_pages,,name,section name,Collection pages
+./static-collection/static-collection.json,products_pagination_method,sections,collection_pages,,select,label,Pagination method
+./static-collection/static-collection.json,products_pagination_method,sections,collection_pages,,select,option_1,Click to load more
+./static-collection/static-collection.json,products_pagination_method,sections,collection_pages,,select,option_2,Infinite scroll
+./static-collection/static-collection.json,products_pagination_method,sections,collection_pages,,select,option_3,Traditional pagination
+./static-collection/static-collection.json,collection-products-per-row,sections,collection_pages,,range,label,Products per row
+./static-collection/static-collection.json,collection-products-number-of-rows,sections,collection_pages,,range,label,Rows
+./static-collection/static-collection.json,show_collection_image,sections,collection_pages,,checkbox,label,Show collection image
+./static-collection/static-collection.json,sort_by_dropdown,sections,collection_pages,,checkbox,label,Enable sorting
+./static-collection/static-collection.json,filter_option,sections,collection_pages,,checkbox,label,Enable filtering
+./static-page/static-page.json,name,sections,page,,name,section name,Page
+./static-page/static-page.json,page_width,sections,page,,select,label,Page width
+./static-page/static-page.json,page_width,sections,page,,select,option_1,Regular
+./static-page/static-page.json,page_width,sections,page,,select,option_2,Wide
+./static-page/static-page.json,page_width,sections,page,,select,option_3,Full width
+./static-blog/static-blog.json,name,sections,blog_pages,,name,section name,Blog pages
+./static-blog/static-blog.json,header,sections,blog_pages,,header,content,Layout
+./static-blog/static-blog.json,blog_column_layout,sections,blog_pages,,select,label,Columns
+./static-blog/static-blog.json,blog_column_layout,sections,blog_pages,,select,option_1,One column
+./static-blog/static-blog.json,blog_column_layout,sections,blog_pages,,select,option_2,Two columns
+./static-blog/static-blog.json,posts-per-page,sections,blog_pages,,range,label,Posts per page
+./static-blog/static-blog.json,header,sections,blog_pages,,header,content,Blog title
+./static-blog/static-blog.json,show_rss,sections,blog_pages,,checkbox,label,Show RSS link
+./static-blog/static-blog.json,show_tags,sections,blog_pages,,checkbox,label,Show all post tags
+./static-blog/static-blog.json,header,sections,blog_pages,,header,content,Blog posts
+./static-blog/static-blog.json,show_author,sections,blog_pages,,checkbox,label,Show author
+./static-blog/static-blog.json,show_date,sections,blog_pages,,checkbox,label,Show date
+./static-blog/static-blog.json,show_post_tags,sections,blog_pages,,checkbox,label,Show post tags
+./static-article/static-article.json,name,sections,article,,name,section name,Article
+./static-article/static-article.json,page_width,sections,article,,select,label,Page width
+./static-article/static-article.json,page_width,sections,article,,select,option_1,Regular
+./static-article/static-article.json,page_width,sections,article,,select,option_2,Wide
+./static-article/static-article.json,page_width,sections,article,,select,option_3,Full width
+./static-article/static-article.json,show_author,sections,article,,checkbox,label,Show author
+./static-article/static-article.json,show_date,sections,article,,checkbox,label,Show date
+./static-article/static-article.json,show_post_tags,sections,article,,checkbox,label,Show post tags
+./static-article/static-article.json,social_share,sections,article,,checkbox,label,Show blog post sharing
+./static-password/static-password.json,name,sections,password_pages,,name,section name,Password pages
+./static-password/static-password.json,header,sections,password_pages,,header,content,Logo
+./static-password/static-password.json,logo,sections,password_pages,,image_picker,label,Logo image
+./static-password/static-password.json,logo_width,sections,password_pages,,range,label,Logo width
+./static-password/static-password.json,logo_width_mobile,sections,password_pages,,range,label,Mobile logo width
+./static-password/static-password.json,newsletter_text,sections,password_pages,,richtext,label,Newsletter text
+./dynamic-promotions/dynamic-promotions.json,name,sections,promotions,,name,section name,Promotions
+./dynamic-promotions/dynamic-promotions.json,title,sections,promotions,,text,label,Heading
+./dynamic-promotions/dynamic-promotions.json,name,block,promotions,promotion,name,block name,Promotion
+./dynamic-promotions/dynamic-promotions.json,image,blocks,promotions,promotion,image_picker,label,Image
+./dynamic-promotions/dynamic-promotions.json,title,blocks,promotions,promotion,text,label,Heading
+./dynamic-promotions/dynamic-promotions.json,caption,blocks,promotions,promotion,richtext,label,Text
+./dynamic-promotions/dynamic-promotions.json,url,blocks,promotions,promotion,url,label,Link
+./dynamic-promotions/dynamic-promotions.json,cta_title,blocks,promotions,promotion,text,label,Button text
+./dynamic-promotions/dynamic-promotions.json,text_color,blocks,promotions,promotion,select,label,Text shade
+./dynamic-promotions/dynamic-promotions.json,text_color,blocks,promotions,promotion,select,option_1,Light
+./dynamic-promotions/dynamic-promotions.json,text_color,blocks,promotions,promotion,select,option_2,Dark
+./dynamic-promotions/dynamic-promotions.json,Promotions,presets,promotions,,category,category,Image
+./dynamic-promotions/dynamic-promotions.json,Promotions,presets,promotions,,name,name,Promotions

@@ -2,7 +2,7 @@ import csv
 import json
 
 
-settings_dict = {}
+final_dict = {"settings_schema": {}, "sections": {}}
 with open("settings.csv", 'r') as settings:
     data = csv.DictReader(settings, delimiter=",")
     for row in data:
@@ -14,11 +14,16 @@ with open("settings.csv", 'r') as settings:
         settingProperty = row["property"]
         settingContent = row["content"]
 
+        if settingLevel in final_dict:
+            settings_dict = final_dict[settingLevel]
+        else:
+            settings_dict = final_dict["sections"]
+
         if sectionId not in settings_dict:
             headerCount = 0
             settings_dict[sectionId] = {}
 
-        if settingLevel == "sections":
+        if settingLevel in final_dict:
             if settingProperty == "section name":
                 settings_dict[sectionId]["name"] = settingContent
                 continue
@@ -55,5 +60,7 @@ with open("settings.csv", 'r') as settings:
 
             settings_dict[sectionId]["presets"][settingProperty] = settingContent
 
+
+
 with open("sample.json", "w") as outfile:
-    json.dump(settings_dict, outfile, indent=2 )
+    json.dump(final_dict, outfile, indent=2 )

@@ -86,7 +86,7 @@ for file in files:
             dataList.append(line1)
             dataList.append(line2)
 
-with open('settings.csv', 'w', encoding='UTF8', newline='') as f:
+with open('section_settings.csv', 'w', encoding='UTF8', newline='') as f:
     writer = csv.writer(f)
     writer.writerow(header)
     writer.writerows(dataList)
