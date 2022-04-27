@@ -4,7 +4,7 @@ You may need to install python on your machine to run these. If you use Homebrew
 ```
 $ brew install python
 ```
-
+## Directions:
 With `parse_schema.py` in the `theme/source/config` directory, run
 
 ```
