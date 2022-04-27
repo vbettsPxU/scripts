@@ -62,5 +62,5 @@ with open("settings.csv", 'r') as settings:
 
 
 
-with open("sample.json", "w") as outfile:
+with open("en.default.schema.json", "w") as outfile:
     json.dump(final_dict, outfile, indent=2 )
