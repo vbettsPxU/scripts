@@ -22,7 +22,7 @@ def process_schema_settings(file, settings, name):
                 line = [file, settingID, level, sectionName, "", settingType, settingProperty, settingInfo]
                 data.append(line)
 
-            if setting["type"] == "select":
+            if "options" in setting:
                 options = setting["options"]
                 count = 1
                 for option in options:
@@ -43,9 +43,12 @@ def process_schema_settings(file, settings, name):
 def parse_schema_settings():
     directory = "./config/"
     pathname = directory + "settings_schema.json"
+    if not os.path.exists(pathname):
+        return
+
     files = glob.glob(pathname, recursive=True)
 
-    header = ['filename', 'setting_id', 'level', 'section_name', 'block_name', 'type', 'property', 'content']
+    header = ['filename', 'setting_id', 'level', 'section_name', 'block_type', 'type', 'property', 'content']
     dataList = []
 
     for file in files:
@@ -91,7 +94,7 @@ def process_section_settings(file, settings, section, block=False):
                 line = [file, settingID, level, sectionName, blockName, settingType, settingProperty, settingInfo]
                 data.append(line)
 
-            if setting["type"] == "select":
+            if "options" in setting:
                 options = setting["options"]
                 count = 1
                 for option in options:
@@ -110,6 +113,12 @@ def process_section_settings(file, settings, section, block=False):
             settingProperty = "content"
             line = [file, settingID, level, sectionName, blockName, setting["type"], settingProperty, settingLabel]
             data.append(line)
+
+            if "info" in setting:
+                settingProperty = "info"
+                settingInfo = setting["info"]
+                line = [file, settingID, level, sectionName, blockName, settingType, settingProperty, settingInfo]
+                data.append(line)
     return data
 
 def parse_section_settings():
@@ -117,7 +126,7 @@ def parse_section_settings():
     pathname = directory + "/**/*.json"
     files = glob.glob(pathname, recursive=True)
 
-    header = ['filename', 'setting_id', 'level', 'section_name', 'block_name', 'type', 'property', 'content']
+    header = ['filename', 'setting_id', 'level', 'section_name', 'block_type', 'type', 'property', 'content']
     dataList = []
 
     for file in files:
@@ -137,10 +146,10 @@ def parse_section_settings():
 
             for block in blocks:
                 if block["type"] != "@app":
-                    formattedName = block["name"].replace(" ", "_").lower()
-                    dataList.append([file, "name", "block", currentSection, formattedName, "name", "block name", block["name"]])
+                    formattedType = block["type"].replace(" ", "_").lower()
+                    dataList.append([file, "name", "blocks", currentSection, formattedType, "name", "block name", block["name"]])
                     if "settings" in block:
-                        blockData = process_section_settings(file, block["settings"], currentSection, formattedName)
+                        blockData = process_section_settings(file, block["settings"], currentSection, formattedType)
                         for line in blockData:
                             dataList.append(line)
         if "presets" in jsonData:
@@ -174,12 +183,15 @@ def jsonify_setting_fields():
         data = csv.DictReader(settings, delimiter=",")
         for row in data:
             sectionId = row["section_name"]
-            blockId = row["block_name"]
+            blockId = row["block_type"]
             settingId = row["setting_id"]
             settingLevel = row["level"]
             settingType = row["type"]
             settingProperty = row["property"]
             settingContent = row["content"]
+
+            if not settingContent:
+                continue
 
             if settingLevel in final_dict:
                 settings_dict = final_dict[settingLevel]
@@ -188,6 +200,7 @@ def jsonify_setting_fields():
 
             if sectionId not in settings_dict:
                 headerCount = 0
+                paraCount = 0
                 settings_dict[sectionId] = {}
 
             if settingLevel in final_dict:
@@ -202,6 +215,9 @@ def jsonify_setting_fields():
                     if settingType == "header":
                         headerCount += 1
                         settingId = "header_"+str(headerCount)
+                    if settingType == "paragraph":
+                        paraCount += 1
+                        settingId = "paragraph_"+str(paraCount)
 
                     if settingId not in settings_dict[sectionId]:
                         settings_dict[sectionId][settingId] = {}
@@ -210,20 +226,29 @@ def jsonify_setting_fields():
             elif settingLevel == "blocks":
                 if "blocks" not in settings_dict[sectionId]:
                     blockHeaderCount = 0
+                    blockParaCount = 0
                     settings_dict[sectionId]["blocks"] = {}
 
+                if blockId not in settings_dict[sectionId]["blocks"]:
+                    settings_dict[sectionId]["blocks"][blockId] = {}
+
                 if settingProperty == "block name":
-                    settings_dict[sectionId]["name"] = settingContent
+                    settings_dict[sectionId]["blocks"][blockId]["name"] = settingContent
                     continue
+
                 else:
                     if settingType == "header":
                         blockHeaderCount += 1
                         settingId = "header_"+str(blockHeaderCount)
 
-                    if settingId not in settings_dict[sectionId]["blocks"]:
-                        settings_dict[sectionId]["blocks"][settingId] = {}
+                    if settingType == "paragraph":
+                        paraCount += 1
+                        settingId = "paragraph_"+str(blockParaCount)
 
-                    settings_dict[sectionId]["blocks"][settingId][settingProperty] = settingContent
+                    if settingId not in settings_dict[sectionId]["blocks"][blockId]:
+                        settings_dict[sectionId]["blocks"][blockId][settingId] = {}
+
+                    settings_dict[sectionId]["blocks"][blockId][settingId][settingProperty] = settingContent
 
             elif settingLevel == "presets":
                 if "presets" not in settings_dict[sectionId]:
