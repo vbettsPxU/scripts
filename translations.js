@@ -1,3 +1,9 @@
+/*
+ * Reads settings_schema.json and all section setting JSON files
+ * Outputs en.default.schema.json
+ * Replaces relevant fields with their "t:" translation path in all setting JSON files
+ */
+
 const glob = require('glob');
 const fs = require('fs');
 

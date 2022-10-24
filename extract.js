@@ -1,3 +1,11 @@
+/*
+ * Reads in `en.default.schema.json` and all EFIGS dictionaries (de.dictionary.json, es.dictionary.json etc.)
+ * Matches EN strings to dictionary keys
+ * Outputs *.schema.json files for DE, ES, IT, FR and missing.en.dictionary.json containing any strings not found
+ * in existing dictionaries
+ *
+ */
+
 const glob = require('glob');
 const fs = require('fs');
 const path = require('path');
