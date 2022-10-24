@@ -73,9 +73,9 @@ let enSchema = {
 // If en.default.schema.json exists, add it to the theme obj in enSchema
 
 const filePatterns = [
-  './sections/**/default/*.json',
-  './components/**/default/*.json',
-  './blocks/**/default/*.json'
+  './sections/*/*/*.json',
+  './components/*/*/*.json',
+  './blocks/*/*/*.json'
 ]
 
 function getHighestPropCount(parentObj, prop) {
