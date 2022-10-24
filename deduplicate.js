@@ -1,3 +1,8 @@
+/*
+ * Read in en.default.schema.json
+ * output en.dictionary.json which is all translateable strings mapped to themselves as keys
+ * */
+
 const glob = require('glob');
 const fs = require('fs');
 const path = require('path');

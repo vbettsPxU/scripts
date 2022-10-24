@@ -1,0 +1,1397 @@
+{
+  "12": [
+    "component.product_grid.products_per_page.option_1",
+    "component.search.results_per_page.option_1"
+  ],
+  "24": [
+    "component.product_grid.products_per_page.option_2",
+    "component.search.results_per_page.option_2"
+  ],
+  "36": [
+    "component.product_grid.products_per_page.option_3",
+    "component.search.results_per_page.option_3"
+  ],
+  "Blog posts": [
+    "component.blog_posts.name",
+    "component.blog_posts.presets.blog_posts.name"
+  ],
+  "Heading": [
+    "component.blog_posts.heading.label",
+    "component.collection_banner.color_heading.label",
+    "component.collection_list.heading.label",
+    "component.subcollections.heading.label",
+    "component.contact_form.contact_form_heading.label",
+    "component.custom_html.heading.label",
+    "component.custom_liquid.heading.label",
+    "component.featured_collection.heading.label",
+    "component.featured_product.blocks.description.heading.label",
+    "component.featured_product.blocks.collapsible_tab.heading.label",
+    "component.featured_product.blocks.share.heading.label",
+    "component.image_banner.blocks.heading.name",
+    "component.collections_list_page.heading.label",
+    "component.quick_add.blocks.description.heading.label",
+    "component.quick_add.blocks.collapsible_tab.heading.label",
+    "component.quick_add.blocks.share.heading.label",
+    "component.product_recommendations.heading.label",
+    "component.product_page.blocks.description.heading.label",
+    "component.product_page.blocks.collapsible_tab.heading.label",
+    "component.product_page.blocks.share.heading.label",
+    "component.promotions_grid.heading.label",
+    "component.shop_the_look.heading.label",
+    "component.video.heading.label",
+    "component.block_footer_about.blocks.about_and_social.heading.label",
+    "component.block_footer_menu.blocks.menu.heading.label",
+    "component.block_footer_newsletter_form.blocks.newsletter.heading.label",
+    "component.block_footer_richtext.blocks.text.heading.label",
+    "component.block_footer_social_icons.blocks.social.heading.label",
+    "component.block_heading.blocks.heading.name",
+    "component.block_heading.blocks.heading.content.label",
+    "component.block_meganav.blocks.mega_menu.heading_1.label",
+    "component.block_meganav.blocks.mega_menu.heading_2.label",
+    "component.block_promo_editorial.blocks.editorial.heading.label",
+    "component.block_promo_standard.blocks.standard.heading.label",
+    "component.block_promo_text.blocks.text.heading.label"
+  ],
+  "Subheading": [
+    "component.blog_posts.subheading.label",
+    "component.collection_list.subheading.label",
+    "component.subcollections.subheading.label",
+    "component.featured_collection.subheading.label",
+    "component.featured_product.blocks.vendor.text_style.option_2",
+    "component.featured_product.blocks.text.text_style.option_2",
+    "component.collections_list_page.subheading.label",
+    "component.quick_add.blocks.text.text_style.option_2",
+    "component.product_page.blocks.vendor.text_style.option_2",
+    "component.product_page.blocks.text.text_style.option_2",
+    "component.block_meganav.blocks.mega_menu.subheading_1.label",
+    "component.block_meganav.blocks.mega_menu.subheading_2.label",
+    "component.block_subheading.blocks.subheading.name",
+    "component.block_subheading.blocks.subheading.content.label"
+  ],
+  "Blog": [
+    "component.blog_posts.blog.label",
+    "component.blog.name"
+  ],
+  "Featured article": [
+    "component.blog_posts.featured_article.label",
+    "component.blog.blocks.featured_article.name"
+  ],
+  "Featured image": [
+    "component.blog_posts.alternate_image.label",
+    "component.blog.blocks.featured_image.name"
+  ],
+  "Cart": [
+    "theme.cart.name",
+    "component.cart.name"
+  ],
+  "Page": [
+    "theme.cart.cart_type.option_2",
+    "component.featured_product.blocks.page.name",
+    "component.featured_product.blocks.collapsible_tab.page.label",
+    "component.page.name",
+    "component.page.page.label",
+    "component.page.presets.page.name",
+    "component.quick_add.blocks.page.name",
+    "component.quick_add.blocks.collapsible_tab.page.label",
+    "component.product_page.blocks.page.name",
+    "component.product_page.blocks.collapsible_tab.page.label"
+  ],
+  "Show description": [
+    "component.collection_banner.show_description.label",
+    "component.collection_card.show_description.label"
+  ],
+  "50%": [
+    "component.collection_banner.image_width_large.option_1",
+    "component.image_with_text.image_width.option_1",
+    "component.block_promo_editorial.blocks.editorial.block_width.option_3",
+    "component.block_promo_image.blocks.image.block_width.option_3",
+    "component.block_promo_standard.blocks.standard.width.option_2",
+    "component.block_promo_text.blocks.text.block_width.option_3"
+  ],
+  "60%": [
+    "component.collection_banner.image_width_large.option_3",
+    "component.image_with_text.image_width.option_2"
+  ],
+  "Natural": [
+    "component.collection_banner.image_height_large.option_1",
+    "component.collection_banner.image_height_small.option_1",
+    "component.image_with_text.image_height_desktop.option_1",
+    "component.image_with_text.image_height_mobile.option_1",
+    "component.collection_card.collection_card_media_ratio.option_1",
+    "component.featured_product_gallery.media_ratio.option_1",
+    "theme.product_grid.product_card_media_ratio.option_1",
+    "component.product_gallery_modal.media_ratio.option_1",
+    "component.product_gallery.media_ratio.option_1"
+  ],
+  "300px": [
+    "component.collection_banner.image_height_large.option_2",
+    "component.collection_banner.image_height_small.option_3",
+    "component.image_with_text.image_height_mobile.option_2"
+  ],
+  "400px": [
+    "component.collection_banner.image_height_large.option_3",
+    "component.collection_banner.image_height_small.option_4",
+    "component.image_banner.desktop_height.option_1",
+    "component.image_with_text.image_height_desktop.option_2",
+    "component.image_with_text.image_height_mobile.option_3"
+  ],
+  "500px": [
+    "component.collection_banner.image_height_large.option_4",
+    "component.image_banner.desktop_height.option_2",
+    "component.image_with_text.image_height_desktop.option_3",
+    "component.image_with_text.image_height_mobile.option_4"
+  ],
+  "Text": [
+    "component.collection_banner.color_text.label",
+    "component.featured_product.blocks.text.name",
+    "component.featured_product.blocks.text.text.label",
+    "component.featured_product.blocks.collapsible_tab.content.label",
+    "theme.colors.color_footer_text.label",
+    "component.image_banner.color_overlay_foreground.label",
+    "component.image_banner.blocks.text.name",
+    "component.image_with_text.header_2.content",
+    "component.quick_add.blocks.text.name",
+    "component.quick_add.blocks.text.text.label",
+    "component.quick_add.blocks.collapsible_tab.content.label",
+    "component.product_page.blocks.text.name",
+    "component.product_page.blocks.text.text.label",
+    "component.product_page.blocks.collapsible_tab.content.label",
+    "component.header_toolbar.toolbar_text_color.label",
+    "theme.product_badges.product_badge_text_color_1.label",
+    "theme.product_badges.product_badge_text_color_2.label",
+    "theme.product_badges.product_badge_text_color_3.label",
+    "theme.product_badges.product_badge_text_color_4.label",
+    "component.block_accent_text.blocks.accent_text.content.label",
+    "component.block_announcement.blocks.announcement.text.label",
+    "component.block_footer_newsletter_form.blocks.newsletter.content.label",
+    "component.block_footer_richtext.blocks.text.name",
+    "component.block_promo_editorial.blocks.editorial.header_2.content",
+    "component.block_promo_editorial.blocks.editorial.text.label",
+    "component.block_promo_editorial.blocks.editorial.color_text.label",
+    "component.block_promo_standard.blocks.standard.text.label",
+    "component.block_promo_standard.blocks.standard.color_overlay_foreground.label",
+    "component.block_promo_text.blocks.text.name",
+    "component.block_promo_text.blocks.text.header_2.content",
+    "component.block_promo_text.blocks.text.text.label",
+    "component.block_richtext.blocks.text.name"
+  ],
+  "Background": [
+    "component.collection_banner.color_background.label",
+    "theme.colors.color_footer_background.label",
+    "component.header_toolbar.toolbar_bg_color.label",
+    "theme.product_badges.product_badge_background_color_1.label",
+    "theme.product_badges.product_badge_background_color_2.label",
+    "theme.product_badges.product_badge_background_color_3.label",
+    "theme.product_badges.product_badge_background_color_4.label",
+    "component.block_meganav.blocks.mega_menu.background_1.label",
+    "component.block_meganav.blocks.mega_menu.background_2.label"
+  ],
+  "Collection list": [
+    "component.collection_list.name",
+    "component.collection_list.presets.collection_list.name"
+  ],
+  "Collections per row": [
+    "component.collection_list.collections_per_row.label",
+    "component.subcollections.collections_per_row.label"
+  ],
+  "Subcollections": [
+    "component.subcollections.name",
+    "component.subcollections.presets.subcollections.name"
+  ],
+  "Menu": [
+    "component.subcollections.menu.label",
+    "component.block_footer_menu.blocks.menu.name"
+  ],
+  "Contact form": [
+    "component.contact_form.name",
+    "component.contact_form.presets.contact_form.name"
+  ],
+  "Custom HTML": [
+    "component.custom_html.name",
+    "component.custom_html.custom_html.label",
+    "component.custom_html.presets.custom_html.name"
+  ],
+  "Custom Liquid": [
+    "component.custom_liquid.name",
+    "component.custom_liquid.custom_liquid.label",
+    "component.custom_liquid.presets.custom_liquid.name",
+    "component.featured_product.blocks.custom_liquid.name",
+    "component.featured_product.blocks.custom_liquid.custom_liquid.label",
+    "component.quick_add.blocks.custom_liquid.name",
+    "component.quick_add.blocks.custom_liquid.custom_liquid.label",
+    "component.product_page.blocks.custom_liquid.name",
+    "component.product_page.blocks.custom_liquid.custom_liquid.label"
+  ],
+  "Add app snippets or other Liquid code to create advanced customizations.": [
+    "component.custom_liquid.custom_liquid.info",
+    "component.featured_product.blocks.custom_liquid.custom_liquid.info",
+    "component.quick_add.blocks.custom_liquid.custom_liquid.info",
+    "component.product_page.blocks.custom_liquid.custom_liquid.info"
+  ],
+  "Featured collection": [
+    "component.featured_collection.name",
+    "component.featured_collection.presets.featured_collection.name"
+  ],
+  "Collection": [
+    "component.featured_collection.collection.label",
+    "component.block_collection_card.blocks.collection.name",
+    "component.block_collection_card.blocks.collection.collection.label"
+  ],
+  "Products per group": [
+    "component.featured_collection.cards_per_group.label",
+    "component.product_recommendations.cards_per_group.label"
+  ],
+  "3 products": [
+    "component.featured_collection.cards_per_group.option_1",
+    "component.product_recommendations.cards_per_group.option_1"
+  ],
+  "4 products": [
+    "component.featured_collection.cards_per_group.option_2",
+    "component.product_recommendations.cards_per_group.option_2"
+  ],
+  "5 products": [
+    "component.featured_collection.cards_per_group.option_3",
+    "component.product_recommendations.cards_per_group.option_3"
+  ],
+  "Featured product": [
+    "component.featured_product.name",
+    "component.featured_product.presets.featured_product.name"
+  ],
+  "Product": [
+    "component.featured_product.product.label",
+    "component.shop_the_look.blocks.product.name",
+    "component.shop_the_look.blocks.product.product.label"
+  ],
+  "Auto-select first available variant": [
+    "component.featured_product.select_first_available_variant.label",
+    "component.quick_add.select_first_available_variant.label",
+    "component.product_page.select_first_available_variant.label"
+  ],
+  "Product badges": [
+    "component.featured_product.header_1.content",
+    "component.featured_product.blocks.product_badges.name",
+    "component.quick_add.blocks.product_badges.name",
+    "component.product_page.blocks.product_badges.name",
+    "component.featured_product_gallery.header_1.content",
+    "theme.product_badges.name",
+    "theme.product_grid.header_2.content",
+    "component.product_gallery.header_1.content"
+  ],
+  "Media": [
+    "component.featured_product.header_2.content",
+    "component.featured_product_gallery.header_2.content",
+    "component.product_gallery_modal.header_1.content",
+    "component.product_gallery.header_2.content"
+  ],
+  "Small": [
+    "component.featured_product.gallery_size.option_1",
+    "component.featured_product.blocks.spacer.spacing.option_1",
+    "component.quick_add.blocks.spacer.spacing.option_1",
+    "component.product_page.blocks.spacer.spacing.option_1",
+    "component.spacer.spacing.option_2",
+    "component.featured_product_gallery.gallery_thumbnail_size.option_1",
+    "component.block_accent_text.blocks.accent_text.size.option_1",
+    "component.block_heading.blocks.heading.size_desktop.option_1",
+    "component.block_heading.blocks.heading.size_mobile.option_2",
+    "component.block_preheading.blocks.preheading.size.option_1",
+    "component.block_promo_editorial.blocks.editorial.size_heading.option_1",
+    "component.block_promo_editorial.blocks.editorial.size_text.option_1",
+    "component.block_promo_standard.blocks.standard.heading_size.option_1",
+    "component.block_promo_text.blocks.text.size_preheading.option_1",
+    "component.block_promo_text.blocks.text.size_heading.option_1",
+    "component.block_promo_text.blocks.text.size_text.option_1",
+    "component.block_richtext.blocks.text.size.option_1"
+  ],
+  "Medium": [
+    "component.featured_product.gallery_size.option_2",
+    "component.featured_product.blocks.spacer.spacing.option_2",
+    "component.quick_add.blocks.spacer.spacing.option_2",
+    "component.product_page.blocks.spacer.spacing.option_2",
+    "component.spacer.spacing.option_3",
+    "component.featured_product_gallery.gallery_thumbnail_size.option_2",
+    "theme.social_media.social_medium_link.label",
+    "component.block_accent_text.blocks.accent_text.size.option_2",
+    "component.block_heading.blocks.heading.size_desktop.option_2",
+    "component.block_heading.blocks.heading.size_mobile.option_3",
+    "component.block_preheading.blocks.preheading.size.option_2",
+    "component.block_promo_editorial.blocks.editorial.size_heading.option_2",
+    "component.block_promo_editorial.blocks.editorial.size_text.option_2",
+    "component.block_promo_standard.blocks.standard.heading_size.option_2",
+    "component.block_promo_text.blocks.text.size_preheading.option_2",
+    "component.block_promo_text.blocks.text.size_heading.option_2",
+    "component.block_promo_text.blocks.text.size_text.option_2",
+    "component.block_richtext.blocks.text.size.option_2"
+  ],
+  "Large": [
+    "component.featured_product.gallery_size.option_3",
+    "component.featured_product.blocks.spacer.spacing.option_3",
+    "component.quick_add.blocks.spacer.spacing.option_3",
+    "component.product_page.blocks.spacer.spacing.option_3",
+    "component.spacer.spacing.option_4",
+    "component.featured_product_gallery.gallery_thumbnail_size.option_3",
+    "component.block_accent_text.blocks.accent_text.size.option_3",
+    "component.block_heading.blocks.heading.size_desktop.option_3",
+    "component.block_heading.blocks.heading.size_mobile.option_4",
+    "component.block_preheading.blocks.preheading.size.option_3",
+    "component.block_promo_editorial.blocks.editorial.size_heading.option_3",
+    "component.block_promo_editorial.blocks.editorial.size_text.option_3",
+    "component.block_promo_standard.blocks.standard.heading_size.option_3",
+    "component.block_promo_text.blocks.text.size_preheading.option_3",
+    "component.block_promo_text.blocks.text.size_heading.option_3",
+    "component.block_promo_text.blocks.text.size_text.option_3",
+    "component.block_richtext.blocks.text.size.option_3"
+  ],
+  "Vendor": [
+    "component.featured_product.blocks.vendor.name",
+    "component.product_page.blocks.vendor.name"
+  ],
+  "Link to vendor collection": [
+    "component.featured_product.blocks.vendor.use_vendor_link.label",
+    "component.product_page.blocks.vendor.use_vendor_link.label"
+  ],
+  "Text style": [
+    "component.featured_product.blocks.vendor.text_style.label",
+    "component.featured_product.blocks.text.text_style.label",
+    "component.quick_add.blocks.text.text_style.label",
+    "component.product_page.blocks.vendor.text_style.label",
+    "component.product_page.blocks.text.text_style.label"
+  ],
+  "Accent": [
+    "component.featured_product.blocks.vendor.text_style.option_1",
+    "component.featured_product.blocks.text.text_style.option_1",
+    "component.quick_add.blocks.text.text_style.option_1",
+    "component.product_page.blocks.vendor.text_style.option_1",
+    "component.product_page.blocks.text.text_style.option_1"
+  ],
+  "Body": [
+    "component.featured_product.blocks.vendor.text_style.option_3",
+    "component.featured_product.blocks.text.text_style.option_3",
+    "component.quick_add.blocks.text.text_style.option_3",
+    "component.product_page.blocks.vendor.text_style.option_3",
+    "component.product_page.blocks.text.text_style.option_3"
+  ],
+  "Title": [
+    "component.featured_product.blocks.title.name",
+    "component.product_page.blocks.title.name"
+  ],
+  "SKU": [
+    "component.featured_product.blocks.sku.name",
+    "component.quick_add.blocks.sku.name",
+    "component.product_page.blocks.sku.name"
+  ],
+  "Price": [
+    "component.featured_product.blocks.price.name",
+    "component.product_page.blocks.price.name"
+  ],
+  "Show label": [
+    "component.featured_product.blocks.price.show_label.label",
+    "component.product_page.blocks.price.show_label.label"
+  ],
+  "Product rating": [
+    "component.featured_product.blocks.product_rating.name",
+    "component.quick_add.blocks.product_rating.name",
+    "component.product_page.blocks.product_rating.name"
+  ],
+  "To display a rating, add a product rating app. [Learn more](https://apps.shopify.com/product-reviews).": [
+    "component.featured_product.blocks.product_rating.paragraph_1.content",
+    "component.quick_add.blocks.product_rating.paragraph_1.content",
+    "component.product_page.blocks.product_rating.paragraph_1.content"
+  ],
+  "Variant picker": [
+    "component.featured_product.blocks.variant_picker.name",
+    "component.quick_add.blocks.variant_picker.name",
+    "component.product_page.blocks.variant_picker.name"
+  ],
+  "Inventory status": [
+    "component.featured_product.blocks.inventory_status.name",
+    "component.quick_add.blocks.inventory_status.name",
+    "component.product_page.blocks.inventory_status.name"
+  ],
+  "Quantity": [
+    "component.featured_product.blocks.quantity.name",
+    "component.quick_add.blocks.quantity.name",
+    "component.product_page.blocks.quantity.name"
+  ],
+  "Buy buttons": [
+    "component.featured_product.blocks.buy_buttons.name",
+    "component.quick_add.blocks.buy_buttons.name",
+    "component.product_page.blocks.buy_buttons.name"
+  ],
+  "Description": [
+    "component.featured_product.blocks.description.name",
+    "component.quick_add.blocks.description.name",
+    "component.product_page.blocks.description.name",
+    "component.block_footer_richtext.blocks.text.content.label",
+    "component.block_richtext.blocks.text.content.label"
+  ],
+  "Show as tab": [
+    "component.featured_product.blocks.description.show_as_tab.label",
+    "component.featured_product.blocks.share.show_as_tab.label",
+    "component.quick_add.blocks.description.show_as_tab.label",
+    "component.quick_add.blocks.share.show_as_tab.label",
+    "component.product_page.blocks.description.show_as_tab.label",
+    "component.product_page.blocks.share.show_as_tab.label"
+  ],
+  "Show tab as opened by default": [
+    "component.featured_product.blocks.description.show_tab_as_open.label",
+    "component.featured_product.blocks.collapsible_tab.show_tab_as_open.label",
+    "component.featured_product.blocks.share.show_tab_as_open.label",
+    "component.quick_add.blocks.description.show_tab_as_open.label",
+    "component.quick_add.blocks.collapsible_tab.show_tab_as_open.label",
+    "component.quick_add.blocks.share.show_tab_as_open.label",
+    "component.product_page.blocks.description.show_tab_as_open.label",
+    "component.product_page.blocks.collapsible_tab.show_tab_as_open.label",
+    "component.product_page.blocks.share.show_tab_as_open.label"
+  ],
+  "Size guide": [
+    "component.featured_product.blocks.size_guide.name",
+    "component.quick_add.blocks.size_guide.name",
+    "component.product_page.blocks.size_guide.name"
+  ],
+  "Collapsible tab": [
+    "component.featured_product.blocks.collapsible_tab.name",
+    "component.quick_add.blocks.collapsible_tab.name",
+    "component.product_page.blocks.collapsible_tab.name"
+  ],
+  "Product upsell": [
+    "component.featured_product.blocks.product_upsell.name",
+    "component.quick_add.blocks.product_upsell.name",
+    "component.product_page.blocks.product_upsell.name"
+  ],
+  "Share": [
+    "component.featured_product.blocks.share.name",
+    "component.article.blocks.share.name",
+    "component.quick_add.blocks.share.name",
+    "component.product_page.blocks.share.name"
+  ],
+  "If you share a page on social media, the page’s featured image will be shown as the preview image. [Learn more](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images).": [
+    "component.featured_product.blocks.share.paragraph_1.content",
+    "component.article.blocks.share.paragraph_1.content",
+    "component.quick_add.blocks.share.paragraph_1.content",
+    "component.product_page.blocks.share.paragraph_1.content"
+  ],
+  "A store title and description are included with the preview image. [Learn more](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store).": [
+    "component.featured_product.blocks.share.paragraph_2.content",
+    "component.article.blocks.share.paragraph_2.content",
+    "component.quick_add.blocks.share.paragraph_2.content",
+    "component.product_page.blocks.share.paragraph_2.content"
+  ],
+  "Show Facebook": [
+    "component.featured_product.blocks.share.show_facebook.label",
+    "component.article.blocks.share.show_facebook.label",
+    "component.quick_add.blocks.share.show_facebook.label",
+    "component.product_page.blocks.share.show_facebook.label"
+  ],
+  "Show Twitter": [
+    "component.featured_product.blocks.share.show_twitter.label",
+    "component.article.blocks.share.show_twitter.label",
+    "component.quick_add.blocks.share.show_twitter.label",
+    "component.product_page.blocks.share.show_twitter.label"
+  ],
+  "Show Pinterest": [
+    "component.featured_product.blocks.share.show_pinterest.label",
+    "component.article.blocks.share.show_pinterest.label",
+    "component.quick_add.blocks.share.show_pinterest.label",
+    "component.product_page.blocks.share.show_pinterest.label"
+  ],
+  "Display badges": [
+    "component.featured_product.blocks.product_badges.display.label",
+    "component.quick_add.blocks.product_badges.display.label",
+    "component.product_page.blocks.product_badges.display.label",
+    "component.featured_product_gallery.gallery_badges.label",
+    "theme.product_grid.product_card_badges.label",
+    "component.product_gallery.gallery_badges.label"
+  ],
+  "Sale badge only": [
+    "component.featured_product.blocks.product_badges.display.option_1",
+    "component.quick_add.blocks.product_badges.display.option_1",
+    "component.product_page.blocks.product_badges.display.option_1",
+    "component.featured_product_gallery.gallery_badges.option_2",
+    "theme.product_grid.product_card_badges.option_2",
+    "component.product_gallery.gallery_badges.option_2"
+  ],
+  "Custom badges only": [
+    "component.featured_product.blocks.product_badges.display.option_2",
+    "component.quick_add.blocks.product_badges.display.option_2",
+    "component.product_page.blocks.product_badges.display.option_2",
+    "component.featured_product_gallery.gallery_badges.option_3",
+    "theme.product_grid.product_card_badges.option_3",
+    "component.product_gallery.gallery_badges.option_3"
+  ],
+  "Custom badges preferred": [
+    "component.featured_product.blocks.product_badges.display.option_3",
+    "component.quick_add.blocks.product_badges.display.option_3",
+    "component.product_page.blocks.product_badges.display.option_3",
+    "component.featured_product_gallery.gallery_badges.option_4",
+    "theme.product_grid.product_card_badges.option_4",
+    "component.product_gallery.gallery_badges.option_4"
+  ],
+  "Both sale and custom badges": [
+    "component.featured_product.blocks.product_badges.display.option_4",
+    "component.quick_add.blocks.product_badges.display.option_4",
+    "component.product_page.blocks.product_badges.display.option_4",
+    "component.featured_product_gallery.gallery_badges.option_5",
+    "theme.product_grid.product_card_badges.option_5",
+    "component.product_gallery.gallery_badges.option_5"
+  ],
+  "Product label": [
+    "component.featured_product.blocks.product_label.name",
+    "component.quick_add.blocks.product_label.name",
+    "component.product_page.blocks.product_label.name",
+    "theme.product_grid.header_3.content"
+  ],
+  "Spacer": [
+    "component.featured_product.blocks.spacer.name",
+    "component.quick_add.blocks.spacer.name",
+    "component.product_page.blocks.spacer.name",
+    "component.spacer.name",
+    "component.spacer.presets.spacer.name"
+  ],
+  "Spacing": [
+    "component.featured_product.blocks.spacer.spacing.label",
+    "component.quick_add.blocks.spacer.spacing.label",
+    "component.product_page.blocks.spacer.spacing.label",
+    "component.spacer.spacing.label"
+  ],
+  "Footer": [
+    "component.footer.name",
+    "theme.colors.header_1.content"
+  ],
+  "Logo": [
+    "component.header.header_1.content",
+    "component.block_footer_logo.blocks.logo.name"
+  ],
+  "px": [
+    "component.header.logo_width.unit",
+    "component.header.logo_width_mobile.unit"
+  ],
+  "Image banner": [
+    "component.image_banner.name",
+    "component.image_banner.presets.image_banner.name"
+  ],
+  "Wide display": [
+    "component.image_banner.wide.label",
+    "component.image_with_text.wide.label",
+    "component.promotions_grid.wide.label",
+    "component.rich_text.wide.label",
+    "component.shop_the_look.wide.label",
+    "component.video_with_overlay.wide.label",
+    "component.video.wide.label"
+  ],
+  "Desktop height": [
+    "component.image_banner.desktop_height.label",
+    "component.image_with_text.image_height_desktop.label"
+  ],
+  "600px": [
+    "component.image_banner.desktop_height.option_3",
+    "component.image_with_text.image_height_desktop.option_4"
+  ],
+  "700px": [
+    "component.image_banner.desktop_height.option_4",
+    "component.image_with_text.image_height_desktop.option_5"
+  ],
+  "800px": [
+    "component.image_banner.desktop_height.option_5",
+    "component.image_with_text.image_height_desktop.option_6"
+  ],
+  "Top left": [
+    "component.image_banner.image_1_focal_point.option_1",
+    "component.image_banner.image_2_focal_point.option_1",
+    "component.image_banner.image_mobile_focal_point.option_1",
+    "component.image_banner.blocks.preheading.position.option_1",
+    "component.image_banner.blocks.heading.position.option_1",
+    "component.image_banner.blocks.text.position.option_1",
+    "component.image_banner.blocks.button.position.option_1",
+    "component.video_overlay.text_position.option_1",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.option_1",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.option_1",
+    "component.block_promo_editorial.blocks.editorial.position_heading.option_1",
+    "component.block_promo_editorial.blocks.editorial.position_text.option_1",
+    "component.block_promo_editorial.blocks.editorial.position_button.option_1",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.option_1",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.option_1",
+    "component.block_promo_standard.blocks.standard.image_focal_point.option_1",
+    "component.block_promo_standard.blocks.standard.text_position.option_1",
+    "component.block_promo_text.blocks.text.position.option_1"
+  ],
+  "Top center": [
+    "component.image_banner.image_1_focal_point.option_2",
+    "component.image_banner.image_2_focal_point.option_2",
+    "component.image_banner.image_mobile_focal_point.option_2",
+    "component.video_overlay.text_position.option_2",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.option_2",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.option_2",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.option_2",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.option_2",
+    "component.block_promo_standard.blocks.standard.image_focal_point.option_2",
+    "component.block_promo_standard.blocks.standard.text_position.option_2"
+  ],
+  "Top right": [
+    "component.image_banner.image_1_focal_point.option_3",
+    "component.image_banner.image_2_focal_point.option_3",
+    "component.image_banner.image_mobile_focal_point.option_3",
+    "component.image_banner.blocks.preheading.position.option_3",
+    "component.image_banner.blocks.heading.position.option_3",
+    "component.image_banner.blocks.text.position.option_3",
+    "component.image_banner.blocks.button.position.option_3",
+    "component.video_overlay.text_position.option_3",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.option_3",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.option_3",
+    "component.block_promo_editorial.blocks.editorial.position_heading.option_3",
+    "component.block_promo_editorial.blocks.editorial.position_text.option_3",
+    "component.block_promo_editorial.blocks.editorial.position_button.option_3",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.option_3",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.option_3",
+    "component.block_promo_standard.blocks.standard.image_focal_point.option_3",
+    "component.block_promo_standard.blocks.standard.text_position.option_3",
+    "component.block_promo_text.blocks.text.position.option_3"
+  ],
+  "Center left": [
+    "component.image_banner.image_1_focal_point.option_4",
+    "component.image_banner.image_2_focal_point.option_4",
+    "component.image_banner.image_mobile_focal_point.option_4",
+    "component.video_overlay.text_position.option_4",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.option_4",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.option_4",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.option_4",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.option_4",
+    "component.block_promo_standard.blocks.standard.image_focal_point.option_4",
+    "component.block_promo_standard.blocks.standard.text_position.option_4"
+  ],
+  "Center": [
+    "component.image_banner.image_1_focal_point.option_5",
+    "component.image_banner.image_2_focal_point.option_5",
+    "component.image_banner.image_mobile_focal_point.option_5",
+    "component.image_banner.text_alignment.option_2",
+    "component.image_with_text.text_alignment.option_2",
+    "component.promotions_grid.text_alignment.option_2",
+    "component.rich_text.text_alignment.option_2",
+    "component.video_overlay.text_position.option_5",
+    "component.block_footer_logo.blocks.logo.alignment.option_2",
+    "component.block_meganav.blocks.mega_menu.crop_1.option_3",
+    "component.block_meganav.blocks.mega_menu.crop_2.option_3",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.option_5",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.option_5",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.option_5",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.option_5",
+    "component.block_promo_standard.blocks.standard.image_focal_point.option_5",
+    "component.block_promo_standard.blocks.standard.text_position.option_5",
+    "component.block_promo_standard.blocks.standard.text_alignment.option_2"
+  ],
+  "Center right": [
+    "component.image_banner.image_1_focal_point.option_6",
+    "component.image_banner.image_2_focal_point.option_6",
+    "component.image_banner.image_mobile_focal_point.option_6",
+    "component.video_overlay.text_position.option_6",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.option_6",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.option_6",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.option_6",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.option_6",
+    "component.block_promo_standard.blocks.standard.image_focal_point.option_6",
+    "component.block_promo_standard.blocks.standard.text_position.option_6"
+  ],
+  "Bottom left": [
+    "component.image_banner.image_1_focal_point.option_7",
+    "component.image_banner.image_2_focal_point.option_7",
+    "component.image_banner.image_mobile_focal_point.option_7",
+    "component.image_banner.blocks.preheading.position.option_7",
+    "component.image_banner.blocks.heading.position.option_7",
+    "component.image_banner.blocks.text.position.option_7",
+    "component.image_banner.blocks.button.position.option_7",
+    "component.video_overlay.text_position.option_7",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.option_7",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.option_7",
+    "component.block_promo_editorial.blocks.editorial.position_heading.option_7",
+    "component.block_promo_editorial.blocks.editorial.position_text.option_7",
+    "component.block_promo_editorial.blocks.editorial.position_button.option_7",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.option_7",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.option_7",
+    "component.block_promo_standard.blocks.standard.image_focal_point.option_7",
+    "component.block_promo_standard.blocks.standard.text_position.option_7",
+    "component.block_promo_text.blocks.text.position.option_7"
+  ],
+  "Bottom center": [
+    "component.image_banner.image_1_focal_point.option_8",
+    "component.image_banner.image_2_focal_point.option_8",
+    "component.image_banner.image_mobile_focal_point.option_8",
+    "component.video_overlay.text_position.option_8",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.option_8",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.option_8",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.option_8",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.option_8",
+    "component.block_promo_standard.blocks.standard.image_focal_point.option_8",
+    "component.block_promo_standard.blocks.standard.text_position.option_8"
+  ],
+  "Bottom right": [
+    "component.image_banner.image_1_focal_point.option_9",
+    "component.image_banner.image_2_focal_point.option_9",
+    "component.image_banner.image_mobile_focal_point.option_9",
+    "component.image_banner.blocks.preheading.position.option_9",
+    "component.image_banner.blocks.heading.position.option_9",
+    "component.image_banner.blocks.text.position.option_9",
+    "component.image_banner.blocks.button.position.option_9",
+    "component.video_overlay.text_position.option_9",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.option_9",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.option_9",
+    "component.block_promo_editorial.blocks.editorial.position_heading.option_9",
+    "component.block_promo_editorial.blocks.editorial.position_text.option_9",
+    "component.block_promo_editorial.blocks.editorial.position_button.option_9",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.option_9",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.option_9",
+    "component.block_promo_standard.blocks.standard.image_focal_point.option_9",
+    "component.block_promo_standard.blocks.standard.text_position.option_9",
+    "component.block_promo_text.blocks.text.position.option_9"
+  ],
+  "Mobile image": [
+    "component.image_banner.mobile_image.label",
+    "component.shop_the_look.mobile_image.label"
+  ],
+  "Mobile image focal point": [
+    "component.image_banner.image_mobile_focal_point.label",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_mobile.label",
+    "component.block_promo_image.blocks.image.image_focal_point_mobile.label"
+  ],
+  "Text alignment": [
+    "component.image_banner.text_alignment.label",
+    "component.promotions_grid.text_alignment.label",
+    "component.block_promo_standard.blocks.standard.text_alignment.label"
+  ],
+  "Left": [
+    "component.image_banner.text_alignment.option_1",
+    "component.image_with_text.image_position.option_1",
+    "component.image_with_text.text_alignment.option_1",
+    "component.promotions_grid.text_alignment.option_1",
+    "component.rich_text.text_alignment.option_1",
+    "component.block_footer_logo.blocks.logo.alignment.option_1",
+    "component.block_meganav.blocks.mega_menu.crop_1.option_2",
+    "component.block_meganav.blocks.mega_menu.crop_2.option_2",
+    "component.block_promo_standard.blocks.standard.text_alignment.option_1"
+  ],
+  "Right": [
+    "component.image_banner.text_alignment.option_3",
+    "component.image_with_text.image_position.option_2",
+    "component.image_with_text.text_alignment.option_3",
+    "component.promotions_grid.text_alignment.option_3",
+    "component.rich_text.text_alignment.option_3",
+    "component.block_footer_logo.blocks.logo.alignment.option_3",
+    "component.block_meganav.blocks.mega_menu.crop_1.option_1",
+    "component.block_meganav.blocks.mega_menu.crop_2.option_1",
+    "component.block_promo_standard.blocks.standard.text_alignment.option_3"
+  ],
+  "Color": [
+    "component.image_banner.header_4.content",
+    "component.image_with_text.header_3.content",
+    "component.block_promo_editorial.blocks.editorial.header_5.content",
+    "component.block_promo_image.blocks.image.header_2.content",
+    "component.block_promo_text.blocks.text.header_1.content"
+  ],
+  "Solid overlay": [
+    "component.image_banner.overlay_color.label",
+    "component.block_promo_editorial.blocks.editorial.overlay_color.label",
+    "component.block_promo_image.blocks.image.overlay_color.label",
+    "component.block_promo_standard.blocks.standard.text_contrast.option_2",
+    "component.block_promo_standard.blocks.standard.overlay_color.label"
+  ],
+  "Gradient overlay": [
+    "component.image_banner.overlay_gradient.label",
+    "component.block_promo_editorial.blocks.editorial.overlay_gradient.label",
+    "component.block_promo_image.blocks.image.overlay_gradient.label",
+    "component.block_promo_standard.blocks.standard.text_contrast.option_3",
+    "component.block_promo_standard.blocks.standard.gradient_overlay_color.label"
+  ],
+  "Overlay opacity": [
+    "component.image_banner.color_overlay_opacity.label",
+    "component.block_promo_editorial.blocks.editorial.color_overlay_opacity.label",
+    "component.block_promo_image.blocks.image.color_overlay_opacity.label",
+    "component.block_promo_standard.blocks.standard.color_overlay_opacity.label"
+  ],
+  "Has no effect when using a gradient overlay.": [
+    "component.image_banner.color_overlay_opacity.info",
+    "component.block_promo_editorial.blocks.editorial.color_overlay_opacity.info",
+    "component.block_promo_image.blocks.image.color_overlay_opacity.info"
+  ],
+  "%": [
+    "component.image_banner.color_overlay_opacity.unit",
+    "component.shop_the_look.blocks.product.x_axis.unit",
+    "component.shop_the_look.blocks.product.y_axis.unit",
+    "component.featured_product_gallery.mobile_media_width.unit",
+    "component.product_gallery.mobile_media_width.unit",
+    "component.block_footer_about.blocks.about_and_social.column_width.unit",
+    "component.block_footer_logo.blocks.logo.column_width.unit",
+    "component.block_footer_menu.blocks.menu.column_width.unit",
+    "component.block_footer_newsletter_form.blocks.newsletter.column_width.unit",
+    "component.block_promo_editorial.blocks.editorial.color_overlay_opacity.unit",
+    "component.block_promo_image.blocks.image.color_overlay_opacity.unit",
+    "component.block_promo_standard.blocks.standard.color_overlay_opacity.unit"
+  ],
+  "Preheading": [
+    "component.image_banner.blocks.preheading.name",
+    "component.block_meganav.blocks.mega_menu.preheading_1.label",
+    "component.block_meganav.blocks.mega_menu.preheading_2.label",
+    "component.block_preheading.blocks.preheading.name",
+    "component.block_promo_text.blocks.text.preheading.label"
+  ],
+  "Text position": [
+    "component.image_banner.blocks.preheading.position.label",
+    "component.image_banner.blocks.heading.position.label",
+    "component.image_banner.blocks.text.position.label",
+    "component.video_overlay.text_position.label",
+    "component.block_promo_editorial.blocks.editorial.position_text.label",
+    "component.block_promo_standard.blocks.standard.text_position.label",
+    "component.block_promo_text.blocks.text.position.label"
+  ],
+  "Text position settings relate to the number and order of blocks included in the section. Revisit these settings when adjusting blocks or block settings.": [
+    "component.image_banner.blocks.preheading.position.info",
+    "component.image_banner.blocks.heading.position.info",
+    "component.image_banner.blocks.text.position.info"
+  ],
+  "Top middle": [
+    "component.image_banner.blocks.preheading.position.option_2",
+    "component.image_banner.blocks.heading.position.option_2",
+    "component.image_banner.blocks.text.position.option_2",
+    "component.image_banner.blocks.button.position.option_2",
+    "component.block_promo_editorial.blocks.editorial.position_heading.option_2",
+    "component.block_promo_editorial.blocks.editorial.position_text.option_2",
+    "component.block_promo_editorial.blocks.editorial.position_button.option_2",
+    "component.block_promo_text.blocks.text.position.option_2"
+  ],
+  "Middle left": [
+    "component.image_banner.blocks.preheading.position.option_4",
+    "component.image_banner.blocks.heading.position.option_4",
+    "component.image_banner.blocks.text.position.option_4",
+    "component.image_banner.blocks.button.position.option_4",
+    "component.block_promo_editorial.blocks.editorial.position_heading.option_4",
+    "component.block_promo_editorial.blocks.editorial.position_text.option_4",
+    "component.block_promo_editorial.blocks.editorial.position_button.option_4",
+    "component.block_promo_text.blocks.text.position.option_4"
+  ],
+  "Middle": [
+    "component.image_banner.blocks.preheading.position.option_5",
+    "component.image_banner.blocks.heading.position.option_5",
+    "component.image_banner.blocks.text.position.option_5",
+    "component.image_banner.blocks.button.position.option_5",
+    "component.block_promo_editorial.blocks.editorial.position_heading.option_5",
+    "component.block_promo_editorial.blocks.editorial.position_text.option_5",
+    "component.block_promo_editorial.blocks.editorial.position_button.option_5",
+    "component.block_promo_text.blocks.text.position.option_5"
+  ],
+  "Middle right": [
+    "component.image_banner.blocks.preheading.position.option_6",
+    "component.image_banner.blocks.heading.position.option_6",
+    "component.image_banner.blocks.text.position.option_6",
+    "component.image_banner.blocks.button.position.option_6",
+    "component.block_promo_editorial.blocks.editorial.position_heading.option_6",
+    "component.block_promo_editorial.blocks.editorial.position_text.option_6",
+    "component.block_promo_editorial.blocks.editorial.position_button.option_6",
+    "component.block_promo_text.blocks.text.position.option_6"
+  ],
+  "Bottom middle": [
+    "component.image_banner.blocks.preheading.position.option_8",
+    "component.image_banner.blocks.heading.position.option_8",
+    "component.image_banner.blocks.text.position.option_8",
+    "component.image_banner.blocks.button.position.option_8",
+    "component.block_promo_editorial.blocks.editorial.position_heading.option_8",
+    "component.block_promo_editorial.blocks.editorial.position_text.option_8",
+    "component.block_promo_editorial.blocks.editorial.position_button.option_8",
+    "component.block_promo_text.blocks.text.position.option_8"
+  ],
+  "Button": [
+    "component.image_banner.blocks.button.name",
+    "component.block_button_link.blocks.button.name",
+    "component.block_promo_editorial.blocks.editorial.header_4.content"
+  ],
+  "Style": [
+    "component.image_banner.blocks.button.style.label",
+    "component.image_with_text.image_style.label",
+    "component.block_button_group.blocks.button_group.style_1.label",
+    "component.block_button_group.blocks.button_group.style_2.label",
+    "component.block_button_group.blocks.button_group.style_3.label",
+    "component.block_button_link.blocks.button.style.label",
+    "component.block_promo_editorial.blocks.editorial.button_style.label",
+    "component.block_promo_text.blocks.text.button_style_1.label",
+    "component.block_promo_text.blocks.text.button_style_2.label"
+  ],
+  "Primary": [
+    "component.image_banner.blocks.button.style.option_1",
+    "component.block_button_group.blocks.button_group.style_1.option_1",
+    "component.block_button_group.blocks.button_group.style_2.option_1",
+    "component.block_button_group.blocks.button_group.style_3.option_1",
+    "component.block_button_link.blocks.button.style.option_1",
+    "component.block_newsletter_form.blocks.email_form.style.option_1",
+    "component.block_promo_editorial.blocks.editorial.button_style.option_1",
+    "component.block_promo_text.blocks.text.button_style_1.option_1",
+    "component.block_promo_text.blocks.text.button_style_2.option_1"
+  ],
+  "Secondary": [
+    "component.image_banner.blocks.button.style.option_2",
+    "component.block_button_group.blocks.button_group.style_1.option_2",
+    "component.block_button_group.blocks.button_group.style_2.option_2",
+    "component.block_button_group.blocks.button_group.style_3.option_2",
+    "component.block_button_link.blocks.button.style.option_2",
+    "component.block_newsletter_form.blocks.email_form.style.option_2",
+    "component.block_promo_editorial.blocks.editorial.button_style.option_2",
+    "component.block_promo_text.blocks.text.button_style_1.option_2",
+    "component.block_promo_text.blocks.text.button_style_2.option_2"
+  ],
+  "Icon": [
+    "component.image_banner.blocks.button.style.option_3",
+    "component.block_promo_editorial.blocks.editorial.button_style.option_3",
+    "component.block_promo_text.blocks.text.button_style_1.option_3",
+    "component.block_promo_text.blocks.text.button_style_2.option_3"
+  ],
+  "Position": [
+    "component.image_banner.blocks.button.position.label",
+    "component.image_with_text.image_position.label",
+    "component.block_meganav.blocks.mega_menu.position_1.label",
+    "component.block_meganav.blocks.mega_menu.position_2.label",
+    "component.block_promo_editorial.blocks.editorial.position_button.label"
+  ],
+  "Image with text": [
+    "component.image_with_text.name",
+    "component.image_with_text.presets.image_with_text.name"
+  ],
+  "Image": [
+    "component.image_with_text.header_1.content",
+    "component.image_with_text.image.label",
+    "component.image_with_text.blocks.image.name",
+    "component.image_with_text.blocks.image.image.label",
+    "component.blog.header_image.label",
+    "component.blog.blocks.featured_article.alternate_image.label",
+    "component.blog.blocks.featured_image.featured_image.label",
+    "component.newsletter.image.label",
+    "component.slideshow.blocks.slide.image.label",
+    "component.video_overlay.image.label",
+    "component.block_footer_logo.blocks.logo.image.label",
+    "component.block_meganav.blocks.mega_menu.image_1.label",
+    "component.block_meganav.blocks.mega_menu.image_2.label",
+    "component.block_promo_editorial.blocks.editorial.header_1.content",
+    "component.block_promo_editorial.blocks.editorial.image.label",
+    "component.block_promo_image.blocks.image.name",
+    "component.block_promo_image.blocks.image.header_1.content",
+    "component.block_promo_image.blocks.image.image.label",
+    "component.block_promo_standard.blocks.standard.image.label",
+    "component.block_promo_text.blocks.text.image.label"
+  ],
+  "Width": [
+    "component.image_with_text.image_width.label",
+    "component.block_promo_standard.blocks.standard.width.label"
+  ],
+  "Alignment": [
+    "component.image_with_text.text_alignment.label",
+    "component.block_footer_logo.blocks.logo.alignment.label"
+  ],
+  "Background color": [
+    "component.image_with_text.color_background.label",
+    "component.rich_text.background_color.label"
+  ],
+  "Text color": [
+    "component.image_with_text.color_text.label",
+    "component.newsletter.text_color.label",
+    "component.rich_text.text_color.label",
+    "component.block_meganav.blocks.mega_menu.color_1.label",
+    "component.block_meganav.blocks.mega_menu.color_2.label",
+    "component.block_promo_text.blocks.text.color_text.label"
+  ],
+  "Article": [
+    "component.article.name",
+    "component.blog.blocks.featured_article.featured_article.label"
+  ],
+  "Full width": [
+    "component.article.image_display.option_3",
+    "component.article.title_style.option_2",
+    "component.rich_text.content_display.option_1",
+    "component.slideshow.wide.label"
+  ],
+  "Content": [
+    "component.article.blocks.content.name",
+    "component.block_preheading.blocks.preheading.content.label"
+  ],
+  "Show article date": [
+    "component.article.blocks.content.show_date.label",
+    "component.article_card_search.show_date.label",
+    "component.article_card.show_date.label"
+  ],
+  "Grid": [
+    "component.blog.blog_card_layout.option_2",
+    "component.product_gallery.gallery_layout.option_1"
+  ],
+  "Product grid": [
+    "component.product_grid.name",
+    "theme.product_grid.name"
+  ],
+  "Columns per row": [
+    "component.product_grid.columns_desktop.label",
+    "component.search.columns_desktop.label"
+  ],
+  "Applies to large screens.": [
+    "component.product_grid.columns_desktop.info",
+    "component.search.columns_desktop.info"
+  ],
+  "Centered": [
+    "component.page.width.option_1",
+    "component.rich_text.content_display.option_2"
+  ],
+  "Show blog posts and pages in results": [
+    "component.search.main_search_show_posts_and_pages.label",
+    "theme.live_search.predictive_search_show_posts_and_pages.label"
+  ],
+  "Newsletter": [
+    "component.newsletter.name",
+    "component.newsletter.presets.newsletter.name",
+    "component.block_footer_newsletter_form.blocks.newsletter.name"
+  ],
+  "Promotions grid": [
+    "component.promotions_grid.name",
+    "component.promotions_grid.presets.promotions_grid.name"
+  ],
+  "Rich text": [
+    "component.rich_text.name",
+    "component.rich_text.presets.rich_text.name"
+  ],
+  "Shop the look": [
+    "component.shop_the_look.name",
+    "component.shop_the_look.presets.shop_the_look.name"
+  ],
+  "View in list": [
+    "component.shop_the_look.header_1.content",
+    "component.add_the_look_item.header_1.content"
+  ],
+  "Main color": [
+    "component.shop_the_look.blocks.product.color_main.label",
+    "component.block_button_group.blocks.button_group.color_main_1.label",
+    "component.block_button_group.blocks.button_group.color_main_2.label",
+    "component.block_button_group.blocks.button_group.color_main_3.label",
+    "component.block_button_link.blocks.button.color_main.label",
+    "component.block_newsletter_form.blocks.email_form.color_main.label",
+    "component.block_promo_editorial.blocks.editorial.color_button_main.label",
+    "component.block_promo_text.blocks.text.color_main_1.label",
+    "component.block_promo_text.blocks.text.color_main_2.label"
+  ],
+  "Contrast color": [
+    "component.shop_the_look.blocks.product.color_contrast.label",
+    "component.block_button_group.blocks.button_group.color_contrast_1.label",
+    "component.block_button_group.blocks.button_group.color_contrast_2.label",
+    "component.block_button_group.blocks.button_group.color_contrast_3.label",
+    "component.block_button_link.blocks.button.color_contrast.label",
+    "component.block_newsletter_form.blocks.email_form.color_contrast.label",
+    "component.block_promo_editorial.blocks.editorial.color_button_contrast.label",
+    "component.block_promo_text.blocks.text.color_contrast_1.label",
+    "component.block_promo_text.blocks.text.color_contrast_2.label"
+  ],
+  "Slideshow": [
+    "component.slideshow.name",
+    "component.slideshow.presets.slideshow.name"
+  ],
+  "None": [
+    "component.spacer.spacing.option_1",
+    "component.featured_product_gallery.gallery_badges.option_1",
+    "theme.product_grid.product_card_badges.option_1",
+    "component.product_gallery.gallery_badges.option_1"
+  ],
+  "Video with overlay": [
+    "component.video_with_overlay.name",
+    "component.video_with_overlay.presets.video_with_overlay.name"
+  ],
+  "Video": [
+    "component.video.name",
+    "component.video.presets.video.name"
+  ],
+  "Hidden": [
+    "component.add_the_look_item.sold_out_options.option_3",
+    "theme.product_grid.product_card_color_option_name.option_3",
+    "theme.product_grid.product_card_color_option.option_3"
+  ],
+  "Show article author": [
+    "component.article_card_search.show_author.label",
+    "component.article_card.show_author.label"
+  ],
+  "Media aspect ratio": [
+    "component.collection_card.collection_card_media_ratio.label",
+    "component.featured_product_gallery.media_ratio.label",
+    "theme.product_grid.product_card_media_ratio.label",
+    "component.product_gallery_modal.media_ratio.label",
+    "component.product_gallery.media_ratio.label"
+  ],
+  "Square (1:1)": [
+    "component.collection_card.collection_card_media_ratio.option_2",
+    "component.featured_product_gallery.media_ratio.option_4",
+    "theme.product_grid.product_card_media_ratio.option_2",
+    "component.product_gallery_modal.media_ratio.option_4",
+    "component.product_gallery.media_ratio.option_4"
+  ],
+  "Landscape (3:2)": [
+    "component.collection_card.collection_card_media_ratio.option_3",
+    "theme.product_grid.product_card_media_ratio.option_3"
+  ],
+  "Portrait (2:3)": [
+    "component.collection_card.collection_card_media_ratio.option_4",
+    "theme.product_grid.product_card_media_ratio.option_4"
+  ],
+  "Image crop mode": [
+    "component.collection_card.collection_card_crop_mode.label",
+    "theme.product_grid.product_card_crop_mode.label"
+  ],
+  "This will have no effect when media aspect ratio is set to \"Natural\".": [
+    "component.collection_card.collection_card_crop_mode.info",
+    "component.featured_product_gallery.media_crop.info",
+    "theme.product_grid.product_card_crop_mode.info",
+    "component.product_gallery_modal.media_crop.info",
+    "component.product_gallery.media_crop.info"
+  ],
+  "Fill": [
+    "component.collection_card.collection_card_crop_mode.option_1",
+    "component.featured_product_gallery.media_crop.option_2",
+    "theme.product_grid.product_card_crop_mode.option_1",
+    "component.product_gallery_modal.media_crop.option_2",
+    "component.product_gallery.media_crop.option_2"
+  ],
+  "Fit": [
+    "component.collection_card.collection_card_crop_mode.option_2",
+    "component.featured_product_gallery.media_crop.option_1",
+    "theme.product_grid.product_card_crop_mode.option_2",
+    "component.product_gallery_modal.media_crop.option_1",
+    "component.product_gallery.media_crop.option_1"
+  ],
+  "Standard": [
+    "theme.product_grid.product_card_label_style.option_1",
+    "component.block_promo_standard.blocks.standard.name"
+  ],
+  "Show sorting options": [
+    "component.faceted_filters_mobile.filters_show_sorting.label",
+    "component.faceted_filters.filters_show_sorting.label"
+  ],
+  "Show filtering options": [
+    "component.faceted_filters_mobile.filters_show_filters.label",
+    "component.faceted_filters.filters_show_filters.label"
+  ],
+  "Allow customers to filter by product options, product type, price, availability, and more. [Customize filters](/admin/menus).": [
+    "component.faceted_filters_mobile.filters_show_filters.info",
+    "component.faceted_filters.filters_show_filters.info"
+  ],
+  "Show gallery thumbnails": [
+    "component.featured_product_gallery.show_gallery_thumbnails.label",
+    "component.product_gallery.show_gallery_thumbnails.label"
+  ],
+  "Thumbnails are limited to desktop devices.": [
+    "component.featured_product_gallery.show_gallery_thumbnails.info",
+    "component.product_gallery.show_gallery_thumbnails.info"
+  ],
+  "Portrait (3:4)": [
+    "component.featured_product_gallery.media_ratio.option_2",
+    "component.product_gallery_modal.media_ratio.option_2",
+    "component.product_gallery.media_ratio.option_2"
+  ],
+  "Landscape (4:3)": [
+    "component.featured_product_gallery.media_ratio.option_3",
+    "component.product_gallery_modal.media_ratio.option_3",
+    "component.product_gallery.media_ratio.option_3"
+  ],
+  "Media crop mode": [
+    "component.featured_product_gallery.media_crop.label",
+    "component.product_gallery_modal.media_crop.label",
+    "component.product_gallery.media_crop.label"
+  ],
+  "Mobile media width": [
+    "component.featured_product_gallery.mobile_media_width.label",
+    "component.product_gallery.mobile_media_width.label"
+  ],
+  "Enable image zoom": [
+    "component.featured_product_gallery.enable_image_zoom.label",
+    "component.product_gallery.enable_image_zoom.label"
+  ],
+  "Enable video autoplay": [
+    "component.featured_product_gallery.autoplay.label",
+    "component.product_gallery.autoplay.label",
+    "component.video_player.autoplay.label"
+  ],
+  "Enable video autoloop": [
+    "component.featured_product_gallery.autoloop.label",
+    "component.product_gallery.autoloop.label",
+    "component.video_player.autoloop.label"
+  ],
+  "Enable video mute": [
+    "component.featured_product_gallery.mute_video.label",
+    "component.product_gallery.mute_video.label",
+    "component.video_player.mute_video.label"
+  ],
+  "Show social icons": [
+    "component.header_toolbar.show_social_icons.label",
+    "component.navigation_drawer.show_social_icons.label",
+    "component.block_footer_about.blocks.about_and_social.show_social_icons.label"
+  ],
+  "Design": [
+    "theme.color_swatches.header_1.content",
+    "theme.product_badges.header_1.content"
+  ],
+  "Navigation": [
+    "component.navigation_desktop.header_1.content",
+    "component.navigation_drawer.header_1.content"
+  ],
+  "Main menu": [
+    "component.navigation_desktop.menu.label",
+    "component.navigation_drawer.menu.label"
+  ],
+  "Uppercase text": [
+    "theme.product_badges.product_badges_uppercase.label",
+    "component.block_preheading.blocks.preheading.uppercase.label"
+  ],
+  "Bolder text": [
+    "theme.product_badges.product_badges_bold.label",
+    "component.block_preheading.blocks.preheading.bolder.label"
+  ],
+  "Tag": [
+    "theme.product_badges.product_badge_tag_1.label",
+    "theme.product_badges.product_badge_tag_2.label",
+    "theme.product_badges.product_badge_tag_3.label",
+    "theme.product_badges.product_badge_tag_4.label"
+  ],
+  "Text size": [
+    "component.block_accent_text.blocks.accent_text.size.label",
+    "component.block_promo_editorial.blocks.editorial.size_text.label",
+    "component.block_promo_text.blocks.text.size_text.label"
+  ],
+  "Link": [
+    "component.block_announcement.blocks.announcement.url.label",
+    "component.block_button_group.blocks.button_group.url_1.label",
+    "component.block_button_group.blocks.button_group.url_2.label",
+    "component.block_button_group.blocks.button_group.url_3.label",
+    "component.block_button_link.blocks.button.url.label",
+    "component.block_meganav.blocks.mega_menu.link_1.label",
+    "component.block_meganav.blocks.mega_menu.link_2.label",
+    "component.block_promo_editorial.blocks.editorial.block_link.label",
+    "component.block_promo_text.blocks.text.button_link_1.label",
+    "component.block_promo_text.blocks.text.button_link_2.label"
+  ],
+  "Button 1": [
+    "component.block_button_group.blocks.button_group.header_1.content",
+    "component.block_promo_text.blocks.text.header_3.content"
+  ],
+  "Label": [
+    "component.block_button_group.blocks.button_group.text_1.label",
+    "component.block_button_group.blocks.button_group.text_2.label",
+    "component.block_button_group.blocks.button_group.text_3.label",
+    "component.block_button_link.blocks.button.text.label",
+    "component.block_promo_editorial.blocks.editorial.button_text.label",
+    "component.block_promo_text.blocks.text.button_text_1.label",
+    "component.block_promo_text.blocks.text.button_text_2.label"
+  ],
+  "Signpost": [
+    "component.block_button_group.blocks.button_group.style_1.option_3",
+    "component.block_button_group.blocks.button_group.style_2.option_3",
+    "component.block_button_group.blocks.button_group.style_3.option_3",
+    "component.block_button_link.blocks.button.style.option_3",
+    "component.block_promo_editorial.blocks.editorial.button_style.option_4",
+    "component.block_promo_text.blocks.text.button_style_1.option_4",
+    "component.block_promo_text.blocks.text.button_style_2.option_4"
+  ],
+  "Button 2": [
+    "component.block_button_group.blocks.button_group.header_2.content",
+    "component.block_promo_text.blocks.text.header_4.content"
+  ],
+  "Column width on large displays": [
+    "component.block_footer_about.blocks.about_and_social.column_width.label",
+    "component.block_footer_logo.blocks.logo.column_width.label",
+    "component.block_footer_menu.blocks.menu.column_width.label",
+    "component.block_footer_newsletter_form.blocks.newsletter.column_width.label"
+  ],
+  "Size": [
+    "component.block_footer_logo.blocks.logo.size.label",
+    "component.block_preheading.blocks.preheading.size.label",
+    "component.block_richtext.blocks.text.size.label"
+  ],
+  "Extra large": [
+    "component.block_heading.blocks.heading.size_desktop.option_4",
+    "component.block_heading.blocks.heading.size_mobile.option_5"
+  ],
+  "Image focal point": [
+    "component.block_meganav.blocks.mega_menu.crop_1.label",
+    "component.block_meganav.blocks.mega_menu.crop_2.label",
+    "component.block_promo_editorial.blocks.editorial.image_focal_point_desktop.label",
+    "component.block_promo_image.blocks.image.image_focal_point_desktop.label",
+    "component.block_promo_standard.blocks.standard.image_focal_point.label"
+  ],
+  "Used when no image is selected.": [
+    "component.block_meganav.blocks.mega_menu.background_1.info",
+    "component.block_meganav.blocks.mega_menu.background_2.info"
+  ],
+  "First column": [
+    "component.block_meganav.blocks.mega_menu.position_1.option_1",
+    "component.block_meganav.blocks.mega_menu.position_2.option_1"
+  ],
+  "Last column": [
+    "component.block_meganav.blocks.mega_menu.position_1.option_2",
+    "component.block_meganav.blocks.mega_menu.position_2.option_2"
+  ],
+  "Overline": [
+    "component.block_overline.blocks.overline.name",
+    "component.block_overline.blocks.overline.overline.label"
+  ],
+  "Block width": [
+    "component.block_promo_editorial.blocks.editorial.block_width.label",
+    "component.block_promo_image.blocks.image.block_width.label",
+    "component.block_promo_text.blocks.text.block_width.label"
+  ],
+  "25%": [
+    "component.block_promo_editorial.blocks.editorial.block_width.option_1",
+    "component.block_promo_image.blocks.image.block_width.option_1",
+    "component.block_promo_text.blocks.text.block_width.option_1"
+  ],
+  "33%": [
+    "component.block_promo_editorial.blocks.editorial.block_width.option_2",
+    "component.block_promo_image.blocks.image.block_width.option_2",
+    "component.block_promo_standard.blocks.standard.width.option_1",
+    "component.block_promo_text.blocks.text.block_width.option_2"
+  ],
+  "66%": [
+    "component.block_promo_editorial.blocks.editorial.block_width.option_4",
+    "component.block_promo_image.blocks.image.block_width.option_4",
+    "component.block_promo_standard.blocks.standard.width.option_3",
+    "component.block_promo_text.blocks.text.block_width.option_4"
+  ],
+  "75%": [
+    "component.block_promo_editorial.blocks.editorial.block_width.option_5",
+    "component.block_promo_image.blocks.image.block_width.option_5",
+    "component.block_promo_text.blocks.text.block_width.option_5"
+  ],
+  "100%": [
+    "component.block_promo_editorial.blocks.editorial.block_width.option_6",
+    "component.block_promo_image.blocks.image.block_width.option_6",
+    "component.block_promo_standard.blocks.standard.width.option_4",
+    "component.block_promo_text.blocks.text.block_width.option_6"
+  ],
+  "Block height": [
+    "component.block_promo_editorial.blocks.editorial.block_height.label",
+    "component.block_promo_image.blocks.image.block_height.label",
+    "component.block_promo_text.blocks.text.block_height.label"
+  ],
+  "The row height adapts to the height of the first block in the row. This only applies to large displays.": [
+    "component.block_promo_editorial.blocks.editorial.block_height.info",
+    "component.block_promo_image.blocks.image.block_height.info",
+    "component.block_promo_text.blocks.text.block_height.info"
+  ],
+  "Small (400px)": [
+    "component.block_promo_editorial.blocks.editorial.block_height.option_1",
+    "component.block_promo_image.blocks.image.block_height.option_1",
+    "component.block_promo_text.blocks.text.block_height.option_1"
+  ],
+  "Medium (550px)": [
+    "component.block_promo_editorial.blocks.editorial.block_height.option_2",
+    "component.block_promo_image.blocks.image.block_height.option_2",
+    "component.block_promo_text.blocks.text.block_height.option_2"
+  ],
+  "Large (700px)": [
+    "component.block_promo_editorial.blocks.editorial.block_height.option_3",
+    "component.block_promo_image.blocks.image.block_height.option_3",
+    "component.block_promo_text.blocks.text.block_height.option_3"
+  ],
+  "Natural (adapts to content)": [
+    "component.block_promo_editorial.blocks.editorial.block_height.option_4",
+    "component.block_promo_image.blocks.image.block_height.option_4",
+    "component.block_promo_text.blocks.text.block_height.option_4"
+  ],
+  "Heading size": [
+    "component.block_promo_editorial.blocks.editorial.size_heading.label",
+    "component.block_promo_standard.blocks.standard.heading_size.label",
+    "component.block_promo_text.blocks.text.size_heading.label"
+  ]
+}
