@@ -612,5 +612,16 @@
   "December": "Diciembre",
   "Day": "Día",
   "Hour": "Hora",
-  "Minute": "Minuto"
+  "Minute": "Minuto",
+  "Countdown timer": "Temporizador de cuenta regresiva",
+  "Section height": "Altura de la sección",
+  "Top": "Arriba",
+  "Bottom": "Abajo",
+  "Timer": "Temporizador",
+  "Show countdown timer background": "Mostrar el fondo del temporizador de cuenta regresiva",
+  "Hide timer on complete": "Ocultar el temporizador al finalizar",
+  "Timer complete message": "Mensaje de temporizador finalizado",
+  "Button link": "Enlace del botón",
+  "Button label": "Etiqueta del botón",
+  "Product card background": "Fondo de la tarjeta del producto"
 }

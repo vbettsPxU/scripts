@@ -612,5 +612,16 @@
   "December": "December",
   "Day": "Day",
   "Hour": "Hour",
-  "Minute": "Minute"
+  "Minute": "Minute",
+  "Countdown timer": "Countdown timer",
+  "Section height": "Section height",
+  "Top": "Top",
+  "Bottom": "Bottom",
+  "Timer": "Timer",
+  "Show countdown timer background": "Show countdown timer background",
+  "Hide timer on complete": "Hide timer on complete",
+  "Timer complete message": "Timer complete message",
+  "Button link": "Button link",
+  "Button label": "Button label",
+  "Product card background": "Product card background"
 }

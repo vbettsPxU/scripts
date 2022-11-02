@@ -612,5 +612,16 @@
   "December": "Dezember",
   "Day": "Tag",
   "Hour": "Stunde",
-  "Minute": "Minute"
+  "Minute": "Minute",
+  "Countdown timer": "Countdown-Timer",
+  "Section height": "Abschnittshöhe",
+  "Top": "Oben",
+  "Bottom": "Unten",
+  "Timer": "Timer",
+  "Show countdown timer background": "Hintergrund des Countdown-Timers anzeigen",
+  "Hide timer on complete": "Timer bei Fertigstellung ausblenden",
+  "Timer complete message": "Nachricht über den Ablauf des Timers",
+  "Button link": "Schaltflächen-Link",
+  "Button label": "Schaltflächenbeschriftung",
+  "Product card background": "Hintergrund der Produktkarte"
 }
